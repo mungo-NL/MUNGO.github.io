@@ -148,6 +148,17 @@ img {
     margin-top: 2.5rem;
   }
 }
+figure {
+    text-align: center; /* Centers the image and caption block */
+    margin: 0 auto; /* Optional: adds margin and centers the figure on the page */
+}
+
+figcaption {
+    font-size: 0.9em; /* Makes the caption text smaller */
+    font-style: italic; /* Styles the caption text */
+    color: #555;
+    margin-top: 5px; /* Spacing between image and caption */
+}
 
 /* --- Navbar --- */
 
