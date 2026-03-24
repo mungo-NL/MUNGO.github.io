@@ -9,12 +9,13 @@ We are in the final stretches of building a Minecraft world with geography and g
 In this world, you can also find locations of real-life ores! Ore bodies have been placed in this world based on the mineral occurence maps also found on the GeoAtlas website. We've even included some information on key geologic sites around the island. Keep an eye out for any beacons or signs that detail some local geology. 
 
 <figure>
-  <img src="/assets/img/gravity_map.png" alt="A gravity map overlain Minecraft Newfoundland" width="300" height="300">
-  <figcaption>Gravity - a geophysics exploration technique - can be explored alongside geology in our minecraft world. </figcaption>
+  <img src="assets/img/gravity_map.png" alt="Gravity Map in Minecraft" style="width:60%">
+  <figcaption style="color: maroon; font-style: italics; font-size: 10;">
+    Gravity is a geophysical exploration technique used in our minecraft world to help you find ore
+  </figcaption>
 </figure>
-
 
 Once complete, this world will be available for anyone to explore. You can travel through and across the island in the game, and learn all about our province's geology. Newfoundland has a significant mining sector, and has some very important fossils. You can have a look at the actual geologic maps to try to find some of these features in the game! We hope this unique perspective of The Rock will teach you something new. 
 
-#change link when ready
+  #change link when ready
 This minecraft map was created by [Alexis Johnson](https://ca.linkedin.com/in/alexis-johnson-4022222bb)
