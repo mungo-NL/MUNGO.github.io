@@ -18,7 +18,7 @@ title: About Us
 }
 .about-col img {
   width: 100%;
-  height: auto;
+  height: 200px;
   border-radius: 8px;
 }
 .about-caption {
