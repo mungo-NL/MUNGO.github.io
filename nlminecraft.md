@@ -48,7 +48,7 @@ In this world, you can also find locations of real-life ores! Ore bodies have be
 
   <div class="minecraft-col">
     <img src="/assets/img/avalon_close_minecraft.png">
-    <div class="about-caption">
+    <div class="minecraft-caption">
       Explore the exciting geology of the Avalon Peninsula! Including some of the oldest fossils known to science at Mistaken Point
     </div>
   </div>
