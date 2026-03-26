@@ -57,5 +57,4 @@ In this world, you can also find locations of real-life ores! Ore bodies have be
 
 Once complete, this world will be available for anyone to explore. You can travel through and across the island in the game, and learn all about our province's geology. Newfoundland has a significant mining sector, and has some very important fossils. You can have a look at the actual geologic maps to try to find some of these features in the game! We hope this unique perspective of The Rock will teach you something new. 
 
-  #change link when ready
 This minecraft map was created by [Alexis Johnson](https://ca.linkedin.com/in/alexis-johnson-4022222bb)
