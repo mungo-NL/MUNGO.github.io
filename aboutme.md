@@ -19,7 +19,7 @@ Memorial University of Newfoundland and Labrador Faculty
 }
 .about-col img {
   width: 100%;
-  height: 200px;
+  height: 250px;
   object-fit: cover;
   border-radius: 8px;
 }
