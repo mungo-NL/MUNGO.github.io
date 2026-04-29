@@ -22,7 +22,7 @@ author:
 navbar-links:
   About Us: "aboutme"
   Resources:
-    - Critical Minerals: "https://beautifuljekyll.com"
+    - Critical Minerals: "criticalminerals.md"
     - Groundwater: "https://www.markdowntutorial.com/"
   Newfoundland Minecraft Map: "nlminecraft"
 
