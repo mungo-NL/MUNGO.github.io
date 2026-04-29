@@ -4,7 +4,7 @@ title: Newfoundland Minecraft Map
 ---
 [Critical Minerals of NL!](criticalminerals.md) 
 
-This is a short activity on critical minerals in NL.  There are [high school]([https://geoatlas.gov.nl.ca/Default.htm](https://docs.google.com/document/d/1vbRpLEEIO3uFH9pERt3V-yQp8NEG_kisb-H7hhgC1sg/edit?tab=t.0)) and [junior high](https://docs.google.com/document/d/1aPtb3GmS6Z-mMEPRQKfgME3wgXbaqDbaEADpG8le3g0/edit?tab=t.0) versions of this activity. 
+This is a short activity on critical minerals in NL.  There are [high school](https://docs.google.com/document/d/1vbRpLEEIO3uFH9pERt3V-yQp8NEG_kisb-H7hhgC1sg/edit?tab=t.0) and [junior high](https://docs.google.com/document/d/1aPtb3GmS6Z-mMEPRQKfgME3wgXbaqDbaEADpG8le3g0/edit?tab=t.0) versions of this activity. 
 <style>
 .minecraft-grid {
   display: flex;
@@ -31,30 +31,13 @@ This is a short activity on critical minerals in NL.  There are [high school]([h
 
 <div class="minecraft-grid">
   <div class="minecraft-col">
-    <img src="/assets/img/minecraft_avalon.png">
+    <img src="/assets/img/critical-minerals-key-global-energy-transition.jpg">
     <div class="minecraft-caption">
-      Explore the exciting geology of the Avalon Peninsula! 
-    </div>
-  </div>
-
-  <div class="minecraft-col">
-    <img src="/assets/img/avalon_close_minecraft.png">
-    <div class="minecraft-caption">
-      Including some of the oldest fossils known to science at Mistaken Point
+      Critical Minerals for [Canada](https://www.cer-rec.gc.ca/en/data-analysis/energy-markets/market-snapshots/2023/market-snapshot-critical-minerals-key-global-energy-transition.html)! 
     </div>
   </div>
 
 </div>
 
-In this world, you can also find locations of real-life ores! Ore bodies have been placed in this world based on the mineral occurence maps also found on the GeoAtlas website. We've even included some information on key geologic sites around the island. Keep an eye out for any beacons or signs that detail some local geology. 
+In this activity, students will learn what critical minerals are, what minerals are found in NL, how we find them and about careers in this sector. 
 
-<figure style="text-align:center;">
-  <img src="/assets/img/gravity_map.png"
-       alt="Example of a gravity map in minecraft"
-       style="width:60%;">
-  <figcaption class="minecraft-caption">Gravity is a geophysics exploration technique that can help search out ore bodies in the subsurface. </figcaption> 
-</figure>
-
-Once complete, this world will be available for anyone to explore. You can travel through and across the island in the game, and learn all about our province's geology. Newfoundland has a significant mining sector, and has some very important fossils. You can have a look at the actual geologic maps to try to find some of these features in the game! We hope this unique perspective of The Rock will teach you something new. 
-
-This minecraft map was created by [Alexis Johnson](https://ca.linkedin.com/in/alexis-johnson-4022222bb)
