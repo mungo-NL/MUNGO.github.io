@@ -19,7 +19,6 @@ title: Critical Minerals of NL
 .minecraft-col img {
   width: 50%;
   height: 400px;
-  object-fit: cover;
   border-radius: 8px;
 }
 .minecraft-caption {
