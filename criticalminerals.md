@@ -37,7 +37,7 @@ title: Critical Minerals of NL
     </div>
   </div>
   <div class="minecraft-col">
-This is a short activity on critical minerals in NL.  In this activity, students will learn what critical minerals are, what minerals are found in NL, how we find them and about careers in this sector.  There are <a href="https://docs.google.com/document/d/1vbRpLEEIO3uFH9pERt3V-yQp8NEG_kisb-H7hhgC1sg/edit?tab=t.0">senior high</a> and <a href="https://docs.google.com/document/d/1aPtb3GmS6Z-mMEPRQKfgME3wgXbaqDbaEADpG8le3g0/edit?tab=t.0">junior high</a> versions of this activity. 
+This is an STSE (Science, Technology, Society and Environment Articles) on critical minerals in NL.  In this activity, students will learn what critical minerals are, what minerals are found in NL, how we find them and about careers in this sector.  There are <a href="https://docs.google.com/document/d/1vbRpLEEIO3uFH9pERt3V-yQp8NEG_kisb-H7hhgC1sg/edit?tab=t.0">senior high</a> and <a href="https://docs.google.com/document/d/1aPtb3GmS6Z-mMEPRQKfgME3wgXbaqDbaEADpG8le3g0/edit?tab=t.0">junior high</a> versions. 
 </div>
 </div>
 
