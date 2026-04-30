@@ -13,11 +13,11 @@ This is a short activity on critical minerals in NL.  In this activity, students
   margin-top: 2rem;
 }
 .minecraft-col {
-  flex: 1;
+  flex: 2;
   text-align: center;
 }
 .minecraft-col img {
-  width: 50%;
+  width: 60%;
   height: 400px;
   object-fit: cover;
   border-radius: 8px;
