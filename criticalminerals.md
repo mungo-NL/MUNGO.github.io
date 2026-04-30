@@ -4,7 +4,7 @@ title: Critical Minerals of NL
 ---
 [](criticalminerals.md) 
 
-This is a short activity on critical minerals in NL.  There are [high school](https://docs.google.com/document/d/1vbRpLEEIO3uFH9pERt3V-yQp8NEG_kisb-H7hhgC1sg/edit?tab=t.0) and [junior high](https://docs.google.com/document/d/1aPtb3GmS6Z-mMEPRQKfgME3wgXbaqDbaEADpG8le3g0/edit?tab=t.0) versions of this activity. 
+This is a short activity on critical minerals in NL.  In this activity, students will learn what critical minerals are, what minerals are found in NL, how we find them and about careers in this sector.  There are [high school](https://docs.google.com/document/d/1vbRpLEEIO3uFH9pERt3V-yQp8NEG_kisb-H7hhgC1sg/edit?tab=t.0) and [junior high](https://docs.google.com/document/d/1aPtb3GmS6Z-mMEPRQKfgME3wgXbaqDbaEADpG8le3g0/edit?tab=t.0) versions of this activity. 
 <style>
 .minecraft-grid {
   display: flex;
@@ -17,7 +17,7 @@ This is a short activity on critical minerals in NL.  There are [high school](ht
   text-align: center;
 }
 .minecraft-col img {
-  width: 100%;
+  width: 50%;
   height: 400px;
   object-fit: cover;
   border-radius: 8px;
@@ -39,5 +39,5 @@ This is a short activity on critical minerals in NL.  There are [high school](ht
 
 </div>
 
-In this activity, students will learn what critical minerals are, what minerals are found in NL, how we find them and about careers in this sector. 
+ 
 
