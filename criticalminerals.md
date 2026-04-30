@@ -33,7 +33,7 @@ This is a short activity on critical minerals in NL.  There are [high school](ht
   <div class="minecraft-col">
     <img src="/assets/img/critical-minerals-key-global-energy-transition.jpg">
     <div class="minecraft-caption">
-      Graphic highlighting critical minerals for <a href="https://www.cer-rec.gc.ca/en/data-analysis/energy-markets/market-snapshots/2023/market-snapshot-critical-minerals-key-global-energy-transition.html">Canada.</a> 
+      Graphic highlighting critical minerals for Canada sourced from <a href="https://www.cer-rec.gc.ca/en/data-analysis/energy-markets/market-snapshots/2023/market-snapshot-critical-minerals-key-global-energy-transition.html">here.</a> 
     </div>
   </div>
 
