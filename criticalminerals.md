@@ -4,7 +4,7 @@ title: Critical Minerals of NL
 ---
 [](criticalminerals.md) 
 
-This is a short activity on critical minerals in NL.  In this activity, students will learn what critical minerals are, what minerals are found in NL, how we find them and about careers in this sector.  There are [high school](https://docs.google.com/document/d/1vbRpLEEIO3uFH9pERt3V-yQp8NEG_kisb-H7hhgC1sg/edit?tab=t.0) and [junior high](https://docs.google.com/document/d/1aPtb3GmS6Z-mMEPRQKfgME3wgXbaqDbaEADpG8le3g0/edit?tab=t.0) versions of this activity. 
+
 <style>
 .minecraft-grid {
   display: flex;
@@ -17,8 +17,8 @@ This is a short activity on critical minerals in NL.  In this activity, students
   text-align: center;
 }
 .minecraft-col img {
-  width: 120%;
-  height: 600px;
+  width: 40%;
+  height: 400px;
   object-fit: cover;
   border-radius: 8px;
 }
@@ -31,12 +31,14 @@ This is a short activity on critical minerals in NL.  In this activity, students
 
 <div class="minecraft-grid">
   <div class="minecraft-col">
-    <img src="/assets/img/critical-minerals-key-global-energy-transition.jpg">
+    <img src="/assets/img/critical-minerals-key-global-energy-transition.jpg" width=300>
     <div class="minecraft-caption">
       Graphic highlighting critical minerals for Canada sourced from <a href="https://www.cer-rec.gc.ca/en/data-analysis/energy-markets/market-snapshots/2023/market-snapshot-critical-minerals-key-global-energy-transition.html">here.</a> 
     </div>
   </div>
-
+  <div class="minecraft-col">
+This is a short activity on critical minerals in NL.  In this activity, students will learn what critical minerals are, what minerals are found in NL, how we find them and about careers in this sector.  There are [high school](https://docs.google.com/document/d/1vbRpLEEIO3uFH9pERt3V-yQp8NEG_kisb-H7hhgC1sg/edit?tab=t.0) and [junior high](https://docs.google.com/document/d/1aPtb3GmS6Z-mMEPRQKfgME3wgXbaqDbaEADpG8le3g0/edit?tab=t.0) versions of this activity. 
+</div>
 </div>
 
  
