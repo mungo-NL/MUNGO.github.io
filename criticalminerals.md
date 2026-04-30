@@ -30,7 +30,7 @@ title: Critical Minerals of NL
 
 <div class="minecraft-grid">
   <div class="minecraft-col">
-    <img src="/assets/img/critical-minerals-key-global-energy-transition.png" width=100>
+    <img src="/assets/img/critical-minerals-key-global-energy-transition.png" width=450>
     <div class="minecraft-caption">
       Graphic highlighting critical minerals for Canada sourced from <a href="https://www.cer-rec.gc.ca/en/data-analysis/energy-markets/market-snapshots/2023/market-snapshot-critical-minerals-key-global-energy-transition.html">here.</a> 
     </div>
