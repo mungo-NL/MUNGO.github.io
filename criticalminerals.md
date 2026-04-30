@@ -17,7 +17,7 @@ This is a short activity on critical minerals in NL.  In this activity, students
   text-align: center;
 }
 .minecraft-col img {
-  width: 100%;
+  width: 120%;
   height: 600px;
   object-fit: cover;
   border-radius: 8px;
