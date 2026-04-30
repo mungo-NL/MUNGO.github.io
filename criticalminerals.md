@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Newfoundland Minecraft Map
+title: Critical Minerals of NL
 ---
-[Critical Minerals of NL!](criticalminerals.md) 
+[](criticalminerals.md) 
 
 This is a short activity on critical minerals in NL.  There are [high school](https://docs.google.com/document/d/1vbRpLEEIO3uFH9pERt3V-yQp8NEG_kisb-H7hhgC1sg/edit?tab=t.0) and [junior high](https://docs.google.com/document/d/1aPtb3GmS6Z-mMEPRQKfgME3wgXbaqDbaEADpG8le3g0/edit?tab=t.0) versions of this activity. 
 <style>
@@ -17,8 +17,8 @@ This is a short activity on critical minerals in NL.  There are [high school](ht
   text-align: center;
 }
 .minecraft-col img {
-  width: 100%;
-  height: 200px;
+  width: 50%;
+  height: 100px;
   object-fit: cover;
   border-radius: 8px;
 }
@@ -33,7 +33,7 @@ This is a short activity on critical minerals in NL.  There are [high school](ht
   <div class="minecraft-col">
     <img src="/assets/img/critical-minerals-key-global-energy-transition.jpg">
     <div class="minecraft-caption">
-      Critical Minerals for [Canada](https://www.cer-rec.gc.ca/en/data-analysis/energy-markets/market-snapshots/2023/market-snapshot-critical-minerals-key-global-energy-transition.html)! 
+      Critical Minerals for [Canada]<a>https://www.cer-rec.gc.ca/en/data-analysis/energy-markets/market-snapshots/2023/market-snapshot-critical-minerals-key-global-energy-transition.html</a>a> 
     </div>
   </div>
 
