@@ -3,17 +3,9 @@ layout: page
 title: Explore Newfoundland in Minecraft
 ---
 
-#Download the [Newfoundland World Here](https://github.com/mungo-NL/repository/releases/download/v1.0/project-files.zip)
-
-<a href="https://github.com/mungo-NL/repository/releases/download/v1.0/project-files.zip" download>
-  Download v1.0 (ZIP)
+#Download the [Newfoundland World Here](https://github.com/alexisj2020/Geo_Minecraft_Model/blob/main/Worlds/Download_Instructions.md)
+The link above also includes download instructions for both java and bedrock.  If you want to make your own worlds, use the instructions 
+<a href="https://github.com/alexisj2020/Geo_Minecraft_Model/tree/main">
+  here
 </a>
 
-Instructions: 
-1. Download the Newfoundland Minecraft world as a zip file archive.
-2. Unzip the archive to a temporary location.
-3. Type "%appdata%" into the windows search bar and press enter
-4. Open the ".minecraft" folder
-5. Open the "saves" folder
-6. Move the unzipped archive to this ‘saves’ folder.
-7. Open Minecraft, and you should see the Newfoundland world in your lists of worlds, ready to play!
