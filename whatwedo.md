@@ -18,18 +18,21 @@ MUNGO bring geophysics out of the university and into classrooms and communities
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 20px;
+  gap: 25px;
   margin: 3rem 0;
   padding: 2.5rem;
   border-radius: 12px;
   background: linear-gradient(135deg, #800000, #c96a6a);
 }
+.coordinator-col {
+  width: 100%;
+}
 .coordinator-col img {
   width: 100%;
-  max-width: 400px;
   height: auto;
   border-radius: 6px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  display: block;
 }
 </style>
 
