@@ -23,6 +23,7 @@ navbar-links:
   About Us: "aboutme"
   What We Do: "whatwedo"
   Resources:
+    - Grade 4: "grade4"
     - Critical Minerals: "criticalminerals"
     - Groundwater: "https://www.markdowntutorial.com/"
   Newfoundland Minecraft Map: "nlminecraft"
