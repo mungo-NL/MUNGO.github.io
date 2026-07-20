@@ -44,13 +44,15 @@ Resources aligned to the Grade 4 NL curriculum: rocks, minerals, erosion, and so
 <div class="resource-card">
   <img class="resource-thumb" src="/assets/img/geologist_job1_preview.png">
   <div>
-    <div class="resource-title">STEM Jobs: Geologist — Student Version</div>
+    <div class="resource-title">STEM Jobs: Geologist</div>
     <div class="resource-desc">
       A career-focused reading resource for Grade 4 students. Covers what geology is, the different types of geologists, and what it takes to pursue the career, with a short multiple-choice quiz at the end to check understanding.
     </div>
     <div class="resource-links">
-      <a href="/assets/resources/geologist_job1_student.docx">Download Word Doc</a>
-      <a href="/assets/resources/geologist_job1_student.pdf">Download PDF</a>
+      <a href="/assets/resources/geologist_job1_student.docx">Download Student Version (.docx)</a>
+      <a href="/assets/resources/geologist_job1_student.pdf">Download Student Version (.pdf)</a>
+      <a href="/assets/resources/geologist_job1_teacher.docx">Download Teacher Version (.docx)</a>
+      <a href="/assets/resources/geologist_job1_teacher.pdf">Download Teacher Version (.pdf)</a>
     </div>
   </div>
 </div>
