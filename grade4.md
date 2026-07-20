@@ -33,8 +33,12 @@ Resources aligned to the Grade 4 NL curriculum: rocks, minerals, erosion, and so
 .resource-desc {
   margin-bottom: 1rem;
 }
+.resource-links {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
 .resource-links a {
-  margin-right: 15px;
   font-weight: bold;
 }
 </style>
