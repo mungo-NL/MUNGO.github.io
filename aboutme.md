@@ -7,89 +7,72 @@ title: About Us
 Memorial University of Newfoundland and Labrador Faculty
 
 <style>
-.about-grid {
+.about-row {
   display: flex;
-  justify-content: space-between;
-  gap: 15px;
-  margin-top: 2rem;
+  align-items: center;
+  gap: 20px;
+  margin-bottom: 2rem;
 }
-.about-col {
-  flex: 1;
-  text-align: center;
-}
-.about-col img {
-  width: 100%;
-  height: 300px;
+.about-row img {
+  width: 180px;
+  height: 180px;
   object-fit: cover;
   border-radius: 6px;
+  flex-shrink: 0;
 }
-  .singleimg-col img {
-  width: 30%;
-  height: 300px;
-  object-fit: cover;
-  border-radius: 6px;
-}
-.about-caption {
-  margin-top: 0.5rem;
-  font-style: italic;
-  color: #555;
+.about-text {
+  text-align: left;
 }
 </style>
 
 <!-- FACULTY SECTION -->
-<div class="about-grid">
-  <div class="about-col">
-    <img src="/assets/img/malcolm.jpg">
-    <div class="about-caption">
-      Dr. Alison Malcolm is a geophysics professor at Memorial University of Newfoundland and Labrador. She's originally from Vancouver BC with training from around the world. She specializes in developing methods to use seismic waves for imaging the inside of the Earth, similar to how a radiologist might use ultrasound to look at the insides of a person. She is always happy to talk about earthquakes, waves and any kind of rocky remote sensing.
-    </div>
+<div class="about-row">
+  <img src="/assets/img/malcolm.jpg">
+  <div class="about-text">
+    Dr. Alison Malcolm is a geophysics professor at Memorial University of Newfoundland and Labrador. She's originally from Vancouver BC with training from around the world. She specializes in developing methods to use seismic waves for imaging the inside of the Earth, similar to how a radiologist might use ultrasound to look at the insides of a person. She is always happy to talk about earthquakes, waves and any kind of rocky remote sensing.
   </div>
+</div>
 
-  <div class="about-col">
-    <img src="/assets/img/Welford.jpeg">
-    <div class="about-caption">
-      Dr. J. Kim Welford is a geophysics professor at Memorial University of Newfoundland and Labrador. Her primary expertise lies in seismology and gravity methods, which she applies to lithospheric and basin-scale studies onshore and offshore of the margins of the North Atlantic Ocean. She holds a BSc in Planetary Sciences from McGill University in Montreal, and both an MSc and PhD from the University of British Columbia in Vancouver.
-    </div>
+<div class="about-row">
+  <img src="/assets/img/Welford.jpeg">
+  <div class="about-text">
+    Dr. J. Kim Welford is a geophysics professor at Memorial University of Newfoundland and Labrador. Her primary expertise lies in seismology and gravity methods, which she applies to lithospheric and basin-scale studies onshore and offshore of the margins of the North Atlantic Ocean. She holds a BSc in Planetary Sciences from McGill University in Montreal, and both an MSc and PhD from the University of British Columbia in Vancouver.
   </div>
+</div>
 
-  <div class="about-col">
-    <img src="/assets/img/Farquharson.jpg">
-    <div class="about-caption">
-      Dr. Colin Farquharson has been a geophysics faculty member at Memorial University of Newfoundland for almost twenty years. Colin's main teaching and research interests are geophysical electromagnetic methods, and the computational mathematics for modelling and interpreting the data acquired by these methods.
-    </div>
+<div class="about-row">
+  <img src="/assets/img/Farquharson.jpg">
+  <div class="about-text">
+    Dr. Colin Farquharson has been a geophysics faculty member at Memorial University of Newfoundland for almost twenty years. Colin's main teaching and research interests are geophysical electromagnetic methods, and the computational mathematics for modelling and interpreting the data acquired by these methods.
   </div>
 </div>
 
 ---
-
 Memorial University of Newfoundland and Labrador Students
 
 <!-- STUDENT SECTION -->
-<div class="about-grid">
-  <div class="about-col">
-    <img src="/assets/img/March.jpeg">
-    <div class="about-caption">
-      Jillian March is completing her M.Sc in Physics at Memorial University of Newfoundland, where her research focuses on laser vibrometry and nonlinear wave interactions. She has begun a B.Ed in Post-Secondary Education and is passionate about experimental physics and physics education, making physics engaging and accessible for all.
-    </div>
+<div class="about-row">
+  <img src="/assets/img/March.jpeg">
+  <div class="about-text">
+    Jillian March recently completed her M.Sc. in Physics at Memorial University of Newfoundland, where her research focused on laser vibrometry and nonlinear wave interactions. She has begun a B.Ed. in Post-Secondary Education and is passionate about experimental physics and physics education, making physics engaging and accessible for all.
   </div>
+</div>
 
-  <div class="about-col">
-    <img src="/assets/img/IMG_9171.jpeg">
-    <div class="about-caption">
-      Alexis Johnson is a MSc student in geophysics at MUN. Her research focuses on CO2 storage offshore Newfoundland, and she plans to continue working on climate solutions in her future career. She has experience working for energy companies, mining companies, as a teaching assistant, and in lab environments.
-    </div>
+<div class="about-row">
+  <img src="/assets/img/IMG_9171.jpeg">
+  <div class="about-text">
+    Alexis Johnson is an M.Sc. student in geophysics at MUN. Her research focuses on CO2 storage offshore Newfoundland, and she plans to continue working on climate solutions in her future career. She has experience working for energy companies, mining companies, as a teaching assistant, and in lab environments.
   </div>
-</div>>
+</div>
 
 ---
-
-NL Schools Members 
+NL Schools Members
 
 <!-- REST SECTION -->
-<div class="about-grid">
-  <div class="singleimg-col">
-    <img src="/assets/img/kavanaugh.jpg">
-    <div class="about-caption">
-      Heidi Kavanagh is the Department Head of Science at Mount Pearl Intermediate, NL where she teaches French Immersion science to students Grades 7-9. She is an alumna of the Faculty of Science at Memorial University, completing her Bachelor of Science (Honours) in 2012 and Masters of Environmental Science in 2014 under the supervision of Dr. Penny Morrill, Department of Earth Sciences. Heidi is the co-chair for the Newfoundland and Labrador Science Fair Council and loves everything science!
-    </div>
+<div class="about-row">
+  <img src="/assets/img/kavanaugh.jpg">
+  <div class="about-text">
+    Heidi Kavanagh is the Department Head of Science at Mount Pearl Intermediate, NL where she teaches French Immersion science to students Grades 7-9. She is an alumna of the Faculty of Science at Memorial University, completing her Bachelor of Science (Honours) in 2012 and Masters of Environmental Science in 2014 under the supervision of Dr. Penny Morrill, Department of Earth Sciences. Heidi is the co-chair for the Newfoundland and Labrador Science Fair Council and loves everything science!
   </div>
+</div>
+<img width="468" height="645" alt="image" src="https://github.com/user-attachments/assets/3c44ccce-f602-4cd9-9767-6f73dee7a1dd" />
