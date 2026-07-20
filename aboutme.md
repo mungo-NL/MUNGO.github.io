@@ -4,7 +4,7 @@ title: About Us
 ---
 
 ### Who Are We?
-## Memorial University of Newfoundland and Labrador Faculty
+#### Memorial University of Newfoundland and Labrador Faculty
 
 <style>
 .about-row {
@@ -54,28 +54,26 @@ title: About Us
 
 <hr class="section-divider">
 
----
-## Memorial University of Newfoundland and Labrador Students
+#### Memorial University of Newfoundland and Labrador Students
 
 <!-- STUDENT SECTION -->
 <div class="about-row">
   <img src="/assets/img/March.jpeg">
   <div class="about-text">
-    Jillian March recently completed her M.Sc. in Physics at Memorial University of Newfoundland, where her research focused on laser vibrometry and nonlinear wave interactions. She has begun a B.Ed. in Post-Secondary Education and is passionate about experimental physics and physics education, making physics engaging and accessible for all.
+    <strong>Jillian March</strong> recently completed her M.Sc. in Physics at Memorial University of Newfoundland, where her research focused on laser vibrometry and nonlinear wave interactions. She has begun a B.Ed. in Post-Secondary Education and is passionate about experimental physics and physics education, making physics engaging and accessible for all.
   </div>
 </div>
 
 <div class="about-row">
   <img src="/assets/img/IMG_9171.jpeg">
   <div class="about-text">
-    Alexis Johnson is an M.Sc. student in geophysics at MUN. Her research focuses on CO2 storage offshore Newfoundland, and she plans to continue working on climate solutions in her future career. She has experience working for energy companies, mining companies, as a teaching assistant, and in lab environments.
+    <strong>Alexis Johnson</strong> is an M.Sc. student in geophysics at MUN. Her research focuses on CO2 storage offshore Newfoundland, and she plans to continue working on climate solutions in her future career. She has experience working for energy companies, mining companies, as a teaching assistant, and in lab environments.
   </div>
 </div>
 
 <hr class="section-divider">
 
----
-## NL Schools Members
+#### NL Schools Members
 
 <!-- REST SECTION -->
 <div class="about-row">
