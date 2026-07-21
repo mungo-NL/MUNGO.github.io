@@ -151,7 +151,7 @@ A career-focused reading resource for Grade 7 students. Covers what geology is, 
   <div>
     <div class="resource-title">Continental Drift Activity</div>
     <div class="resource-desc">
-      A <a href="https://usgs.gov" target="_blank">USGS</a> resource where students cut out and piece together continents using Wegener's fossil evidence to reconstruct an ancient supercontinent, then evaluate how compelling the fit is. Includes a Wegener student handout and a present-day world map showing continental shelves.
+      A <a href="https://www.usgs.gov" target="_blank">USGS</a> resource where students cut out and piece together continents using Wegener's fossil evidence to reconstruct an ancient supercontinent, then evaluate how compelling the fit is. Includes a Wegener student handout and a present-day world map showing continental shelves.
     </div>
     <div class="resource-links">
       <a href="/assets/resources/wegener_student.pdf">Download Student Handout (.pdf)</a>
