@@ -130,3 +130,19 @@ A career-focused reading resource for Grade 7 students. Covers what geology is, 
 </div>
 
 <hr class="section-divider">
+<div class="resource-card">
+  <img class="resource-thumb" src="/assets/img/soil_sleuth_preview.png">
+  <div>
+    <div class="resource-title">Be a Soil Sleuth Lab</div>
+    <div class="resource-desc">
+      A hands-on lab where students test a soil sample against clay, sand, and gravel using simple drainage tests to identify its characteristics. Includes student worksheet, teacher version, and the accompanying lab manual from the Science 7 textbook.
+    </div>
+    <div class="resource-links">
+      <a href="/assets/resources/soil_sleuth_lab.pdf">Download Lab Manual (.pdf)</a>
+      <a href="/assets/resources/soil_sleuth_student.pdf">Download Student Version (.pdf)</a>
+      <a href="/assets/resources/soil_sleuth_teacher.pdf">Download Teacher Version (.pdf)</a>
+    </div>
+  </div>
+</div>
+
+<hr class="section-divider">
