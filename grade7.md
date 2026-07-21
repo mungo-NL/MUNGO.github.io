@@ -64,7 +64,7 @@ A career-focused reading resource for Grade 7 students. Covers what geology is, 
   <div>
     <div class="resource-title">Core Concepts</div>
     <div class="resource-desc">
-      A set of classroom-ready activities covering foundational Earth science concepts. Hands-on and self-contained, so no prior teacher training workshop is needed to use them. Provided by <a href="https://miningmattersnl.ca" target="_blank">Mining Matters</a>.
+      A set of classroom-ready activities covering foundational Earth science concepts. Hands-on and self-contained, so no prior teacher training workshop is needed to use them. Provided by <a href="https://miningmatters.ca" target="_blank">Mining Matters</a>.
     </div>
     <div class="resource-links">
       <a href="/assets/resources/core_concepts.pdf">Download PDF</a>
@@ -78,7 +78,7 @@ A career-focused reading resource for Grade 7 students. Covers what geology is, 
   <div>
     <div class="resource-title">Erosion Prevention Activity</div>
     <div class="resource-desc">
-      Students design, build, and test their own erosion-prevention system, then evaluate how well it holds up under 1 L of water poured over a mud mountain. Provided by <a href="https://miningmattersnl.ca" target="_blank">Mining Matters</a>.
+      Students design, build, and test their own erosion-prevention system, then evaluate how well it holds up under 1 L of water poured over a mud mountain. Provided by <a href="https://miningmatters.ca" target="_blank">Mining Matters</a>.
     </div>
     <div class="resource-links">
       <a href="/assets/resources/erosion_prevention.pdf">Download PDF</a>
@@ -92,7 +92,7 @@ A career-focused reading resource for Grade 7 students. Covers what geology is, 
   <div>
     <div class="resource-title">Folding and Faulting: Play-Dough Mountain Building</div>
     <div class="resource-desc">
-      A hands-on model using layered Play-Doh to simulate folding and erosion, a quick Popsicle-stick demo showing how brittle rock breaks to form faults, and more. Provided by <a href="https://miningmattersnl.ca" target="_blank">Mining Matters</a>.
+      A hands-on model using layered Play-Doh to simulate folding and erosion, a quick Popsicle-stick demo showing how brittle rock breaks to form faults, and more. Provided by <a href="https://miningmatters.ca" target="_blank">Mining Matters</a>.
     </div>
     <div class="resource-links">
       <a href="/assets/resources/folding_faulting.pdf">Download PDF</a>
@@ -106,7 +106,7 @@ A career-focused reading resource for Grade 7 students. Covers what geology is, 
   <div>
     <div class="resource-title">The Rock Cycle</div>
     <div class="resource-desc">
-      A poster from the Canadian Museum of Nature illustrating the rock cycle and how rocks transform between igneous, sedimentary, and metamorphic forms. Provided by <a href="https://miningmattersnl.ca" target="_blank">Mining Matters</a>.
+      A poster from the Canadian Museum of Nature illustrating the rock cycle and how rocks transform between igneous, sedimentary, and metamorphic forms. Provided by <a href="https://miningmatters.ca" target="_blank">Mining Matters</a>.
     </div>
     <div class="resource-links">
       <a href="/assets/resources/rock_cycle_CMM.pdf">Download PDF</a>
