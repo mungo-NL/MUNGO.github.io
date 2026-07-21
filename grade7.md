@@ -7,6 +7,21 @@ title: Grade 7
 
 Resources aligned to the Grade 7 NL curriculum: physical sciences and the Earth's crust. Here you'll find worksheets, demos, and activity ideas.
 
+<input type="text" id="page-search" placeholder="Search this page for keywords..." 
+  style="width: 100%; max-width: 500px; padding: 10px 14px; font-size: 1rem; border: 1px solid #ccc; border-radius: 6px; margin: 1.5rem 0; display: block;">
+
+<script>
+document.getElementById('page-search').addEventListener('input', function() {
+  var query = this.value.toLowerCase();
+  var cards = document.querySelectorAll('.resource-card');
+
+  cards.forEach(function(card) {
+    var text = card.textContent.toLowerCase();
+    card.style.display = text.includes(query) ? '' : 'none';
+  });
+});
+</script>
+
 <style>
 .resource-card {
   display: flex;
