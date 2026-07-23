@@ -161,3 +161,17 @@ A career-focused reading resource for Grade 7 students. Covers what geology is, 
 </div>
 
 <hr class="section-divider">
+<div class="resource-card">
+  <img class="resource-thumb" src="/assets/img/geological_scale_preview.png">
+  <div>
+    <div class="resource-title">Earth's History on a Rope</div>
+    <div class="resource-desc">
+      A geological time scale activity where you make a scaled-down model of Earth's 4.6-billion-year history using a length of rope, place major events at their true relative distances apart, then compare that timeline to their own lifespan to grasp just how recent human history really is. The Google Drive folder includes a student worksheet, teacher version, 8 blank event labels, and a Google Sheet for converting milestone dates to rope length.
+    </div>
+    <div class="resource-links">
+      <a href="https://drive.google.com/drive/folders/1zUiD3ygeIwNnyNoYK_7TnhTzG5b8ghQw?usp=drive_link" target="_blank">View Folder in Google Drive</a>
+    </div>
+  </div>
+</div>
+
+<hr class="section-divider">
