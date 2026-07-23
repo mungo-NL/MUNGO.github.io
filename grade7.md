@@ -14,10 +14,18 @@ Resources aligned to the Grade 7 NL curriculum: physical sciences and the Earth'
 document.getElementById('page-search').addEventListener('input', function() {
   var query = this.value.toLowerCase();
   var cards = document.querySelectorAll('.resource-card');
+  var dividers = document.querySelectorAll('.section-divider');
 
   cards.forEach(function(card) {
     var text = card.textContent.toLowerCase();
-    card.style.display = text.includes(query) ? '' : 'none';
+    var match = text.includes(query);
+    card.style.display = match ? '' : 'none';
+
+    // Find the divider right before this card and match its visibility
+    var divider = card.previousElementSibling;
+    if (divider && divider.classList.contains('section-divider')) {
+      divider.style.display = match ? '' : 'none';
+    }
   });
 });
 </script>
