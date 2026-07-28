@@ -68,6 +68,21 @@ document.getElementById('page-search').addEventListener('input', function() {
 
 <hr class="section-divider">
 <div class="resource-card">
+  <img class="resource-thumb" src="/assets/img/mineral_preview.png">
+  <div>
+    <div class="resource-title">A Mineralogist's Mystery</div>
+    <div class="resource-desc">
+Students take on the role of a mineralogist tasked with identifying unknown minerals from a Labrador mine site, using tests for colour, lustre, streak, hardness, and other properties to solve the case. Includes the Science 7 textbook lab manual and a student handout.
+    </div>
+    <div class="resource-links">
+      <a href="/assets/resources/mineral_lab.docx">Download Student Handout (.docx)</a>
+      <a href="/assets/resources/mineral_manual.pdf">Download Lab Manual (.pdf)</a>
+    </div>
+  </div>
+</div>
+
+<hr class="section-divider">
+<div class="resource-card">
   <img class="resource-thumb" src="/assets/img/geologist_job1_preview.png">
   <div>
     <div class="resource-title">STEM JOBS: Geologist</div>
