@@ -99,7 +99,7 @@ A MUNGO-made experiment using Epsom salt solutions cooled at different rates to 
 <div class="resource-card">
   <img class="resource-thumb" src="/assets/img/sedimentary_rock_preview.png">
   <div>
-    <div class="resource-title">Igneous Rocks: Cooling Rate and Crystal Size</div>
+    <div class="resource-title">Sedimentary Rock Demonstration</div>
     <div class="resource-desc">
 A MUNGO-made 19-minute classroom demonstration using a "sedimentator tube" to show how sediment settles by grain size and lithifies into conglomerate, sandstone, and shale. Covers erosion, deposition and sorting, rock classification, and lithification through compaction and cementation. Includes a demonstration plan.
     </div>
