@@ -83,6 +83,20 @@ Students take on the role of a mineralogist tasked with identifying unknown mine
 
 <hr class="section-divider">
 <div class="resource-card">
+  <img class="resource-thumb" src="/assets/img/igneous_preview.png">
+  <div>
+    <div class="resource-title">Igneous Rocks: Cooling Rate and Crystal Size</div>
+    <div class="resource-desc">
+A MUNGO-made experiment using Epsom salt solutions cooled at different rates to model how igneous rocks form, comparing slow "plutonic" cooling (large crystals) to fast "volcanic" cooling (tiny crystals). Guides students through the full scientific method, from hypothesis to conclusions. Includes a student lab handout.
+    </div>
+    <div class="resource-links">
+      <a href="/assets/resources/igneous_rocks_lab.docx">Download Student Handout (.docx)</a>
+    </div>
+  </div>
+</div>
+
+<hr class="section-divider">
+<div class="resource-card">
   <img class="resource-thumb" src="/assets/img/geologist_job1_preview.png">
   <div>
     <div class="resource-title">STEM JOBS: Geologist</div>
