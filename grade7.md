@@ -214,3 +214,19 @@ A MUNGO-made hands-on activity where students cut, stack, and glue colored paper
 </div>
 
 <hr class="section-divider">
+<div class="resource-card">
+  <img class="resource-thumb" src="/assets/img/minecraft_activity_preview.png">
+  <div>
+    <div class="resource-title">Minecraft Activities: Geology of NL and Geophysics</div>
+    <div class="resource-desc">
+Explore a custom Minecraft world made by MUNGO that models Newfoundland's real bedrock geology. Visit landmarks like fossil sites and structural features, then use in-game gravity and magnetic maps to hunt for ore deposits like a geophysicist. Includes exploration and mining activities (with Junior High and Senior High versions), plus download instructions.
+    </div>
+    <div class="resource-links">
+      <a href="/assets/resources/minecraft_geology_activity.docx">Download "Exploring Newfoundland Geology in Minecraft" (.docx)</a>
+      <a href="/assets/resources/minecraft_mining_activity.docx">Download "Mining like a Pro in Minecraft!" (.docx)</a>
+      <a href="/assets/resources/minecraft_instructions.pdf">Download Minecraft World Download Instructions (.pdf)</a>
+    </div>
+  </div>
+</div>
+
+<hr class="section-divider">
