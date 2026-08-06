@@ -125,6 +125,37 @@ A MUNGO-made hands-on activity using Play-Doh and pennies to model how pressure 
 
 <hr class="section-divider">
 <div class="resource-card">
+  <img class="resource-thumb" src="/assets/img/earth_layers_preview.png">
+  <div>
+    <div class="resource-title">Make Your Own Earth Layers Model</div>
+    <div class="resource-desc">
+A MUNGO-made hands-on activity where students cut, stack, and glue colored paper circles to build a labelled model of Earth's layers. Includes student and teacher versions, plus a ready-to-photocopy sheet of Earth layer cutouts.
+    </div>
+    <div class="resource-links">
+      <a href="/assets/resources/earth_layer_student.docx">Download Student Version (.docx)</a>
+      <a href="/assets/resources/earth_layer_teacher.docx">Download Teacher Version (.docx)</a>
+      <a href="/assets/resources/earth_layer_photocopy.docx">Download Earth Layer Cutouts (.docx)</a>
+    </div>
+  </div>
+</div>
+
+<hr class="section-divider">
+<div class="resource-card">
+  <img class="resource-thumb" src="/assets/img/burin_STSE_preview.png">
+  <div>
+    <div class="resource-title">Waves of Disaster: The 1929 Grand Banks Earthquake & Burin Peninsula Tsunami</div>
+    <div class="resource-desc">
+A MUNGO-made STSE activity examining the 1929 Grand Banks earthquake and the tsunami it triggered on the Burin Peninsula. Students analyze cable-break data to understand how the event unfolded, then explore the science, technology, and societal questions around tsunami warning systems in the Atlantic.
+    </div>
+    <div class="resource-links">
+      <a href="/assets/resources/burin_STSE_student.docx">Download Student Version (.docx)</a>
+      <a href="/assets/resources/burin_STSE_teacher.docx">Download Teacher Version (.docx)</a>
+    </div>
+  </div>
+</div>
+
+<hr class="section-divider">
+<div class="resource-card">
   <img class="resource-thumb" src="/assets/img/geologist_job1_preview.png">
   <div>
     <div class="resource-title">STEM JOBS: Geologist</div>
@@ -250,22 +281,6 @@ A MUNGO-made activity exploring how earthquakes and seismic waves work, reading 
     <div class="resource-links">
       <a href="/assets/resources/EarthquakeEpicenter_student.docx">Download Student Version (.docx)</a>
       <a href="/assets/resources/EarthquakeEpicenter_teacher.docx">Download Teacher Version (.docx)</a>
-    </div>
-  </div>
-</div>
-
-<hr class="section-divider">
-<div class="resource-card">
-  <img class="resource-thumb" src="/assets/img/earth_layers_preview.png">
-  <div>
-    <div class="resource-title">Make Your Own Earth Layers Model</div>
-    <div class="resource-desc">
-A MUNGO-made hands-on activity where students cut, stack, and glue colored paper circles to build a labelled model of Earth's layers. Includes student and teacher versions, plus a ready-to-photocopy sheet of Earth layer cutouts.
-    </div>
-    <div class="resource-links">
-      <a href="/assets/resources/earth_layer_student.docx">Download Student Version (.docx)</a>
-      <a href="/assets/resources/earth_layer_teacher.docx">Download Teacher Version (.docx)</a>
-      <a href="/assets/resources/earth_layer_photocopy.docx">Download Earth Layer Cutouts (.docx)</a>
     </div>
   </div>
 </div>
