@@ -111,6 +111,20 @@ A MUNGO-made 19-minute classroom demonstration using a "sedimentator tube" to sh
 
 <hr class="section-divider">
 <div class="resource-card">
+  <img class="resource-thumb" src="/assets/img/metamorphic_preview.png">
+  <div>
+    <div class="resource-title">Metamorphic Rocks: Modelling Foliation with Play-Doh and Pennies</div>
+    <div class="resource-desc">
+A MUNGO-made hands-on activity using Play-Doh and pennies to model how pressure aligns minerals into layers, forming a foliated metamorphic rock like schist. Includes a comparison with granite and gneiss samples to show how foliation helps identify metamorphic rocks.
+    </div>
+    <div class="resource-links">
+      <a href="/assets/resources/metamorphic_rocks.docx">Download Student Handout (.docx)</a>
+    </div>
+  </div>
+</div>
+
+<hr class="section-divider">
+<div class="resource-card">
   <img class="resource-thumb" src="/assets/img/geologist_job1_preview.png">
   <div>
     <div class="resource-title">STEM JOBS: Geologist</div>
