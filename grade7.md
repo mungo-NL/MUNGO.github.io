@@ -156,6 +156,20 @@ A MUNGO-made STSE activity examining the 1929 Grand Banks earthquake and the tsu
 
 <hr class="section-divider">
 <div class="resource-card">
+  <img class="resource-thumb" src="/assets/img/destruction_preview.png">
+  <div>
+    <div class="resource-title">STEM Challenge: Resisting Destruction from Earthquakes</div>
+    <div class="resource-desc">
+A MUNGO-made engineering design challenge where students build earthquake-resistant towers from linguini and marshmallows, then test them on a DIY shake table. Walks through the full engineering design process, from background earthquake science to building, testing, and reflecting. Includes lesson plans for two class-length options, a grading rubric, and a teacher's answer key (teacher version only).
+    </div>
+    <div class="resource-links">
+      <a href="/assets/resources/resisting_destruction.docx">Download Teacher Version (.docx)</a>
+    </div>
+  </div>
+</div>
+
+<hr class="section-divider">
+<div class="resource-card">
   <img class="resource-thumb" src="/assets/img/geologist_job1_preview.png">
   <div>
     <div class="resource-title">STEM JOBS: Geologist</div>
