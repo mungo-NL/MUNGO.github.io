@@ -185,6 +185,20 @@ A MUNGO-made activity exploring how earthquakes and seismic waves work, reading 
 
 <hr class="section-divider">
 <div class="resource-card">
+  <img class="resource-thumb" src="/assets/img/ring_preview.png">
+  <div>
+    <div class="resource-title">The Ring of Fire and Beyond: The Living Map</div>
+    <div class="resource-desc">
+A year-long, MUNGO-made project where students track real-world earthquakes and volcanoes on a pushpin map each week, then discover for themselves how the patterns line up with tectonic plate boundaries. Builds from blind data collection through pattern analysis to a final "big reveal" and research report. Includes a weekly activity log and teacher's cheat sheet for guiding discussion, teacher version only.
+    </div>
+    <div class="resource-links">
+      <a href="/assets/resources/ring_of_fire.docx">Download Teacher Version (.docx)</a>
+    </div>
+  </div>
+</div>
+
+<hr class="section-divider">
+<div class="resource-card">
   <img class="resource-thumb" src="/assets/img/geologist_job1_preview.png">
   <div>
     <div class="resource-title">STEM JOBS: Geologist</div>
