@@ -199,6 +199,34 @@ A year-long, MUNGO-made project where students track real-world earthquakes and 
 
 <hr class="section-divider">
 <div class="resource-card">
+  <img class="resource-thumb" src="/assets/img/folding_faulting_preview.png">
+  <div>
+    <div class="resource-title">Folding and Faulting: Play-Dough Mountain Building</div>
+    <div class="resource-desc">
+      A hands-on model using layered Play-Doh to simulate folding and erosion, a quick Popsicle-stick demo showing how brittle rock breaks to form faults, and more. Provided by <a href="https://miningmatters.ca" target="_blank">Mining Matters</a>.
+    </div>
+    <div class="resource-links">
+      <a href="/assets/resources/folding_faulting.pdf">Download PDF</a>
+    </div>
+  </div>
+</div>
+
+<hr class="section-divider">
+<div class="resource-card">
+  <img class="resource-thumb" src="/assets/img/geological_scale_preview.png">
+  <div>
+    <div class="resource-title">Earth's History on a Rope</div>
+    <div class="resource-desc">
+      A MUNGO-made geological time scale activity where you make a scaled-down model of Earth's 4.6-billion-year history using a length of rope, place major events at their true relative distances apart, then compare that timeline to their own lifespan to grasp just how recent human history really is. The Google Drive folder includes a student worksheet, teacher version, 8 blank event labels, and a Google Sheet for converting milestone dates to rope length.
+    </div>
+    <div class="resource-links">
+      <a href="https://drive.google.com/drive/folders/1zUiD3ygeIwNnyNoYK_7TnhTzG5b8ghQw?usp=drive_link" target="_blank">View Folder in Google Drive</a>
+    </div>
+  </div>
+</div>
+
+<hr class="section-divider">
+<div class="resource-card">
   <img class="resource-thumb" src="/assets/img/geologist_job1_preview.png">
   <div>
     <div class="resource-title">STEM JOBS: Geologist</div>
@@ -236,20 +264,6 @@ A career-focused reading resource for Grade 7 students. Covers what geology is, 
     </div>
     <div class="resource-links">
       <a href="/assets/resources/erosion_prevention.pdf">Download PDF</a>
-    </div>
-  </div>
-</div>
-
-<hr class="section-divider">
-<div class="resource-card">
-  <img class="resource-thumb" src="/assets/img/folding_faulting_preview.png">
-  <div>
-    <div class="resource-title">Folding and Faulting: Play-Dough Mountain Building</div>
-    <div class="resource-desc">
-      A hands-on model using layered Play-Doh to simulate folding and erosion, a quick Popsicle-stick demo showing how brittle rock breaks to form faults, and more. Provided by <a href="https://miningmatters.ca" target="_blank">Mining Matters</a>.
-    </div>
-    <div class="resource-links">
-      <a href="/assets/resources/folding_faulting.pdf">Download PDF</a>
     </div>
   </div>
 </div>
@@ -295,20 +309,6 @@ A career-focused reading resource for Grade 7 students. Covers what geology is, 
     <div class="resource-links">
       <a href="/assets/resources/wegener_student.pdf">Download Student Handout (.pdf)</a>
       <a href="/assets/resources/wegener_world.pdf">Download World Map (.pdf)</a>
-    </div>
-  </div>
-</div>
-
-<hr class="section-divider">
-<div class="resource-card">
-  <img class="resource-thumb" src="/assets/img/geological_scale_preview.png">
-  <div>
-    <div class="resource-title">Earth's History on a Rope</div>
-    <div class="resource-desc">
-      A MUNGO-made geological time scale activity where you make a scaled-down model of Earth's 4.6-billion-year history using a length of rope, place major events at their true relative distances apart, then compare that timeline to their own lifespan to grasp just how recent human history really is. The Google Drive folder includes a student worksheet, teacher version, 8 blank event labels, and a Google Sheet for converting milestone dates to rope length.
-    </div>
-    <div class="resource-links">
-      <a href="https://drive.google.com/drive/folders/1zUiD3ygeIwNnyNoYK_7TnhTzG5b8ghQw?usp=drive_link" target="_blank">View Folder in Google Drive</a>
     </div>
   </div>
 </div>
