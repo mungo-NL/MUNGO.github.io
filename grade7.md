@@ -227,6 +227,36 @@ A year-long, MUNGO-made project where students track real-world earthquakes and 
 
 <hr class="section-divider">
 <div class="resource-card">
+  <img class="resource-thumb" src="/assets/img/weathering_preview.png">
+  <div>
+    <div class="resource-title">Mini Lab: Mechanical vs Chemical Weathering</div>
+    <div class="resource-desc">
+      A MUNGO-made lab comparing mechanical weathering (sanding chalk) and chemical weathering (chalk in vinegar), with post-lab questions connecting the reaction to acid rain on marble statues and an extension on ocean acidification's impact on coral reefs. Can be shortened to 20 minutes if needed.
+    </div>
+    <div class="resource-links">
+      <a href="/assets/resources/weathering.docx">Download Teacher Version (.docx)</a>
+    </div>
+  </div>
+</div>
+
+<hr class="section-divider">
+<div class="resource-card">
+  <img class="resource-thumb" src="/assets/img/soil_sleuth_preview.png">
+  <div>
+    <div class="resource-title">Be a Soil Sleuth Lab</div>
+    <div class="resource-desc">
+      A hands-on lab where students test a soil sample against clay, sand, and gravel using simple drainage tests to identify its characteristics. Includes student worksheet, teacher version, and the accompanying lab manual from the Science 7 textbook.
+    </div>
+    <div class="resource-links">
+      <a href="/assets/resources/soil_sleuth_lab.pdf">Download Lab Manual (.pdf)</a>
+      <a href="/assets/resources/soil_sleuth_student.pdf">Download Student Version (.pdf)</a>
+      <a href="/assets/resources/soil_sleuth_teacher.pdf">Download Teacher Version (.pdf)</a>
+    </div>
+  </div>
+</div>
+
+<hr class="section-divider">
+<div class="resource-card">
   <img class="resource-thumb" src="/assets/img/geologist_job1_preview.png">
   <div>
     <div class="resource-title">STEM JOBS: Geologist</div>
@@ -278,22 +308,6 @@ A career-focused reading resource for Grade 7 students. Covers what geology is, 
     </div>
     <div class="resource-links">
       <a href="/assets/resources/rock_cycle_CMM.pdf">Download PDF</a>
-    </div>
-  </div>
-</div>
-
-<hr class="section-divider">
-<div class="resource-card">
-  <img class="resource-thumb" src="/assets/img/soil_sleuth_preview.png">
-  <div>
-    <div class="resource-title">Be a Soil Sleuth Lab</div>
-    <div class="resource-desc">
-      A hands-on lab where students test a soil sample against clay, sand, and gravel using simple drainage tests to identify its characteristics. Includes student worksheet, teacher version, and the accompanying lab manual from the Science 7 textbook.
-    </div>
-    <div class="resource-links">
-      <a href="/assets/resources/soil_sleuth_lab.pdf">Download Lab Manual (.pdf)</a>
-      <a href="/assets/resources/soil_sleuth_student.pdf">Download Student Version (.pdf)</a>
-      <a href="/assets/resources/soil_sleuth_teacher.pdf">Download Teacher Version (.pdf)</a>
     </div>
   </div>
 </div>
