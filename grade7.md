@@ -170,6 +170,21 @@ A MUNGO-made engineering design challenge where students build earthquake-resist
 
 <hr class="section-divider">
 <div class="resource-card">
+  <img class="resource-thumb" src="/assets/img/earthquakeepicenter_preview.png">
+  <div>
+    <div class="resource-title">Finding an Earthquake Epicenter Activity</div>
+    <div class="resource-desc">
+A MUNGO-made activity exploring how earthquakes and seismic waves work, reading real seismograms, and using data from three seismic stations to triangulate an earthquake's epicenter on a map.
+    </div>
+    <div class="resource-links">
+      <a href="/assets/resources/EarthquakeEpicenter_student.docx">Download Student Version (.docx)</a>
+      <a href="/assets/resources/EarthquakeEpicenter_teacher.docx">Download Teacher Version (.docx)</a>
+    </div>
+  </div>
+</div>
+
+<hr class="section-divider">
+<div class="resource-card">
   <img class="resource-thumb" src="/assets/img/geologist_job1_preview.png">
   <div>
     <div class="resource-title">STEM JOBS: Geologist</div>
@@ -280,21 +295,6 @@ A career-focused reading resource for Grade 7 students. Covers what geology is, 
     </div>
     <div class="resource-links">
       <a href="https://drive.google.com/drive/folders/1zUiD3ygeIwNnyNoYK_7TnhTzG5b8ghQw?usp=drive_link" target="_blank">View Folder in Google Drive</a>
-    </div>
-  </div>
-</div>
-
-<hr class="section-divider">
-<div class="resource-card">
-  <img class="resource-thumb" src="/assets/img/earthquakeepicenter_preview.png">
-  <div>
-    <div class="resource-title">Finding an Earthquake Epicenter Activity</div>
-    <div class="resource-desc">
-A MUNGO-made activity exploring how earthquakes and seismic waves work, reading real seismograms, and using data from three seismic stations to triangulate an earthquake's epicenter on a map.
-    </div>
-    <div class="resource-links">
-      <a href="/assets/resources/EarthquakeEpicenter_student.docx">Download Student Version (.docx)</a>
-      <a href="/assets/resources/EarthquakeEpicenter_teacher.docx">Download Teacher Version (.docx)</a>
     </div>
   </div>
 </div>
