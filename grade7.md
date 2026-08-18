@@ -261,10 +261,12 @@ A year-long, MUNGO-made project where students track real-world earthquakes and 
   <div>
     <div class="resource-title">Seeing the Big Picture</div>
     <div class="resource-desc">
-      A traditional curriculum resource (Appendix A, pages 22-27) covering how our understanding of Earth's changing surface has evolved... from early evidence-based reasoning to the theory of continental drift and, eventually, plate tectonics as a major shift in scientific worldview. Includes background information, questions, references, and activities.
+      A traditional curriculum resource (Appendix A, pages 22-27) covering how our understanding of Earth's changing surface has evolved... from early evidence-based reasoning to the theory of continental drift and, eventually, plate tectonics as a major shift in scientific worldview. Includes background information, questions, references, and activities, alongside MUNGO-made teacher version and student version printouts covering the same outcomes.
     </div>
     <div class="resource-links">
       <a href="/assets/resources/bigpicture.pdf">Download Appendix A (.pdf)</a>
+      <a href="/assets/resources/bigpicture_teacher.docx">Download Teacher Version (.docx)</a>
+      <a href="/assets/resources/bigpicture_student.docx">Download Student Version (.docx)</a>
     </div>
   </div>
 </div>
