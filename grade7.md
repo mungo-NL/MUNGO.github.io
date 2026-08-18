@@ -66,6 +66,8 @@ document.getElementById('page-search').addEventListener('input', function() {
 }
 </style>
 
+## 10.1 - Classify minerals based on their physical properties
+
 <hr class="section-divider">
 <div class="resource-card">
   <img class="resource-thumb" src="/assets/img/mineral_preview.png">
