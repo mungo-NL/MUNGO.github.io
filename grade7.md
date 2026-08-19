@@ -4,8 +4,14 @@ title: Grade 7
 ---
 
 <h2>Grade 7 Resources</h2>
-
 Resources aligned to the Grade 7 NL curriculum: physical sciences and the Earth's crust. Here you'll find worksheets, demos, and activity ideas.
+
+<div style="margin: 1.5rem 0; padding: 1rem; background: #f7f7f7; border-radius: 8px;">
+  <strong>Jump to:</strong>
+  <a href="#outcome-10-1">10.1</a> · 
+  <a href="#outcome-10-2">10.2</a> · 
+  <a href="#outcome-10-3">10.3</a>
+</div>
 
 <input type="text" id="page-search" placeholder="Search this page for keywords..." 
   style="width: 100%; max-width: 500px; padding: 10px 14px; font-size: 1rem; border: 1px solid #ccc; border-radius: 6px; margin: 1.5rem 0; display: block;">
@@ -14,22 +20,14 @@ Resources aligned to the Grade 7 NL curriculum: physical sciences and the Earth'
 document.getElementById('page-search').addEventListener('input', function() {
   var query = this.value.toLowerCase();
   var cards = document.querySelectorAll('.resource-card');
-  var groups = document.querySelectorAll('.outcome-group');
-
   cards.forEach(function(card) {
     var text = card.textContent.toLowerCase();
     var match = text.includes(query);
     card.style.display = match ? '' : 'none';
-
     var divider = card.previousElementSibling;
     if (divider && divider.classList.contains('section-divider')) {
       divider.style.display = match ? '' : 'none';
     }
-  });
-
-  groups.forEach(function(group) {
-    var visibleCard = group.querySelector('.resource-card:not([style*="display: none"])');
-    group.style.display = visibleCard ? '' : 'none';
   });
 });
 </script>
@@ -71,53 +69,55 @@ document.getElementById('page-search').addEventListener('input', function() {
 </style>
 
 <div class="outcome-group">
-  <h3>10.1 - Classify minerals based on their physical properties</h3>
-
-<hr class="section-divider">
-<div class="resource-card">
-  <img class="resource-thumb" src="/assets/img/mineral_preview.png">
-  <div>
-    <div class="resource-title">A Mineralogist's Mystery</div>
-    <div class="resource-desc">
-Students take on the role of a mineralogist tasked with identifying unknown minerals from a Labrador mine site, using tests for colour, lustre, streak, hardness, and other properties to solve the case. Includes the Science 7 textbook lab manual and a student handout.
-    </div>
-    <div class="resource-links">
-      <a href="/assets/resources/mineral_lab.docx">Download Student Handout (.docx)</a>
-      <a href="/assets/resources/mineral_manual.pdf">Download Lab Manual (.pdf)</a>
+  <h3 id="outcome-10-1">10.1 - Classify minerals based on their physical properties</h3>
+  
+  <hr class="section-divider">
+  <div class="resource-card">
+    <img class="resource-thumb" src="/assets/img/mineral_preview.png">
+    <div>
+      <div class="resource-title">A Mineralogist's Mystery</div>
+      <div class="resource-desc">
+        Students take on the role of a mineralogist tasked with identifying unknown minerals from a Labrador mine site, using tests for colour, lustre, streak, hardness, and other properties to solve the case. Includes the Science 7 textbook lab manual and a student handout.
+      </div>
+      <div class="resource-links">
+        <a href="/assets/resources/mineral_lab.docx">Download Student Handout (.docx)</a>
+        <a href="/assets/resources/mineral_manual.pdf">Download Lab Manual (.pdf)</a>
+      </div>
     </div>
   </div>
 </div>
 
 <div class="outcome-group">
-  <h3>10.2 - Classify rocks based on their characteristics and method of formation</h3>
-
-<hr class="section-divider">
-<div class="resource-card">
-  <img class="resource-thumb" src="/assets/img/igneous_preview.png">
-  <div>
-    <div class="resource-title">Igneous Rocks: Cooling Rate and Crystal Size</div>
-    <div class="resource-desc">
-A MUNGO-made experiment using Epsom salt solutions cooled at different rates to model how igneous rocks form, comparing slow "plutonic" cooling (large crystals) to fast "volcanic" cooling (tiny crystals). Guides students through the full scientific method, from hypothesis to conclusions. Includes a student lab handout.
-    </div>
-    <div class="resource-links">
-      <a href="/assets/resources/igneous_rocks_lab.docx">Download Student Handout (.docx)</a>
-    </div>
-  </div>
-</div>
-
-<hr class="section-divider">
-<div class="resource-card">
-  <img class="resource-thumb" src="/assets/img/sedimentary_rock_preview.png">
-  <div>
-    <div class="resource-title">Sedimentary Rock Demonstration</div>
-    <div class="resource-desc">
-A MUNGO-made 19-minute classroom demonstration using a "sedimentator tube" to show how sediment settles by grain size and lithifies into conglomerate, sandstone, and shale. Covers erosion, deposition and sorting, rock classification, and lithification through compaction and cementation. Includes a demonstration plan.
-    </div>
-    <div class="resource-links">
-      <a href="/assets/resources/sedimentary_rock_demonstration.docx">Download Demonstration Plan (.docx)</a>
+  <h3 id="outcome-10-2">10.2 - Classify rocks based on their characteristics and method of formation</h3>
+  
+  <hr class="section-divider">
+  <div class="resource-card">
+    <img class="resource-thumb" src="/assets/img/igneous_preview.png">
+    <div>
+      <div class="resource-title">Igneous Rocks: Cooling Rate and Crystal Size</div>
+      <div class="resource-desc">
+        A MUNGO-made experiment using Epsom salt solutions cooled at different rates to model how igneous rocks form, comparing slow "plutonic" cooling (large crystals) to fast "volcanic" cooling (tiny crystals). Guides students through the full scientific method, from hypothesis to conclusions. Includes a student lab handout.
+      </div>
+      <div class="resource-links">
+        <a href="/assets/resources/igneous_rocks_lab.docx">Download Student Handout (.docx)</a>
+      </div>
     </div>
   </div>
 </div>
+
+  <hr class="section-divider">
+  <div class="resource-card">
+    <img class="resource-thumb" src="/assets/img/sedimentary_rock_preview.png">
+    <div>
+      <div class="resource-title">Sedimentary Rock Demonstration</div>
+      <div class="resource-desc">
+  A MUNGO-made 19-minute classroom demonstration using a "sedimentator tube" to show how sediment settles by grain size and lithifies into conglomerate, sandstone, and shale. Covers erosion, deposition and sorting, rock classification, and lithification through compaction and cementation. Includes a demonstration plan.
+      </div>
+      <div class="resource-links">
+        <a href="/assets/resources/sedimentary_rock_demonstration.docx">Download Demonstration Plan (.docx)</a>
+      </div>
+    </div>
+  </div>
 
 <hr class="section-divider">
 <div class="resource-card">
