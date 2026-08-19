@@ -11,6 +11,15 @@ Resources aligned to the Grade 7 NL curriculum: physical sciences and the Earth'
   <a href="#outcome-10-1">10.1</a> · 
   <a href="#outcome-10-2">10.2</a> · 
   <a href="#outcome-10-3">10.3</a>
+  <a href="#outcome-10-4">10.4</a>
+  <a href="#outcome-10-5">10.5</a>
+  <a href="#outcome-10-6">10.6</a>
+  <a href="#outcome-10-7">10.7</a>
+  <a href="#outcome-10-8">10.8</a>
+  <a href="#outcome-10-9">10.9</a>
+  <a href="#outcome-STSE">STSE</a>
+  <a href="#outcome-more">More</a>
+  
 </div>
 
 <input type="text" id="page-search" placeholder="Search this page for keywords..." 
@@ -103,7 +112,6 @@ document.getElementById('page-search').addEventListener('input', function() {
       </div>
     </div>
   </div>
-</div>
 
   <hr class="section-divider">
   <div class="resource-card">
