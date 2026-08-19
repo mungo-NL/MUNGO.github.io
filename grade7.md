@@ -29,14 +29,22 @@ Resources aligned to the Grade 7 NL curriculum: physical sciences and the Earth'
 document.getElementById('page-search').addEventListener('input', function() {
   var query = this.value.toLowerCase();
   var cards = document.querySelectorAll('.resource-card');
+  var groups = document.querySelectorAll('.outcome-group');
+
   cards.forEach(function(card) {
     var text = card.textContent.toLowerCase();
     var match = text.includes(query);
     card.style.display = match ? '' : 'none';
+
     var divider = card.previousElementSibling;
     if (divider && divider.classList.contains('section-divider')) {
       divider.style.display = match ? '' : 'none';
     }
+  });
+
+  groups.forEach(function(group) {
+    var visibleCard = group.querySelector('.resource-card:not([style*="display: none"])');
+    group.style.display = visibleCard ? '' : 'none';
   });
 });
 </script>
