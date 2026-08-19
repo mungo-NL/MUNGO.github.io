@@ -3,7 +3,7 @@ layout: page
 title: Grade 7
 ---
 
-### Grade 7 Resources
+<h2>Grade 7 Resources</h2>
 
 Resources aligned to the Grade 7 NL curriculum: physical sciences and the Earth's crust. Here you'll find worksheets, demos, and activity ideas.
 
@@ -14,18 +14,22 @@ Resources aligned to the Grade 7 NL curriculum: physical sciences and the Earth'
 document.getElementById('page-search').addEventListener('input', function() {
   var query = this.value.toLowerCase();
   var cards = document.querySelectorAll('.resource-card');
-  var dividers = document.querySelectorAll('.section-divider');
+  var groups = document.querySelectorAll('.outcome-group');
 
   cards.forEach(function(card) {
     var text = card.textContent.toLowerCase();
     var match = text.includes(query);
     card.style.display = match ? '' : 'none';
 
-    // Find the divider right before this card and match its visibility
     var divider = card.previousElementSibling;
     if (divider && divider.classList.contains('section-divider')) {
       divider.style.display = match ? '' : 'none';
     }
+  });
+
+  groups.forEach(function(group) {
+    var visibleCard = group.querySelector('.resource-card:not([style*="display: none"])');
+    group.style.display = visibleCard ? '' : 'none';
   });
 });
 </script>
@@ -66,7 +70,7 @@ document.getElementById('page-search').addEventListener('input', function() {
 }
 </style>
 
-## 10.1 - Classify minerals based on their physical properties
+<h3> 10.1 - Classify minerals based on their physical properties</h3>
 
 <hr class="section-divider">
 <div class="resource-card">
