@@ -70,7 +70,8 @@ document.getElementById('page-search').addEventListener('input', function() {
 }
 </style>
 
-<h3> 10.1 - Classify minerals based on their physical properties</h3>
+<div class="outcome-group">
+  <h3>10.1 - Classify minerals based on their physical properties</h3>
 
 <hr class="section-divider">
 <div class="resource-card">
@@ -86,6 +87,9 @@ Students take on the role of a mineralogist tasked with identifying unknown mine
     </div>
   </div>
 </div>
+
+<div class="outcome-group">
+  <h3>10.2 - Classify rocks based on their characteristics and method of formation</h3>
 
 <hr class="section-divider">
 <div class="resource-card">
