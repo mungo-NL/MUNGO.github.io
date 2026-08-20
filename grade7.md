@@ -344,6 +344,20 @@ document.getElementById('page-search').addEventListener('input', function() {
       </div>
     </div>
   </div>
+
+  <hr class="section-divider">
+  <div class="resource-card">
+    <img class="resource-thumb" src="/assets/img/freshwater_STSE_preview.png">
+    <div>
+      <div class="resource-title">Securing Freshwater with Geophysics</div>
+      <div class="resource-desc">
+        A MUNGO-made STSE article exploring how geophysics (electrical resistivity, seismic and radar methods, etc.) is used to locate underground water, paired with real examples from Newfoundland and Labrador's water challenges. Includes discussion questions on ethics, global humanitarian applications, and Canada's role in freshwater research. Junior high version.
+      </div>
+      <div class="resource-links">
+        <a href="/assets/resources/freshwater_STSE_JH.docx">Download Junior High Version (.docx)</a>
+      </div>
+    </div>
+  </div>
 </div>
 
 <div class="outcome-group">
