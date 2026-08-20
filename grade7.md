@@ -329,6 +329,21 @@ document.getElementById('page-search').addEventListener('input', function() {
       </div>
     </div>
   </div>
+
+  <hr class="section-divider">
+  <div class="resource-card">
+    <img class="resource-thumb" src="/assets/img/CM_STSE_preview.png">
+    <div>
+      <div class="resource-title">A New Era for The Rock: Critical Minerals</div>
+      <div class="resource-desc">
+        A MUNGO-made STSE article exploring what critical minerals are, why Newfoundland and Labrador's deposits (like Voisey's Bay nickel and Burin Peninsula fluorspar) matter for green technology, and how geoscientists locate them. Includes career connections in the mining industry and discussion questions on the economic, environmental, and societal impacts of development. Available in English and French junior high versions.
+      </div>
+      <div class="resource-links">
+        <a href="/assets/resources/CM_STSE_JH_eng.docx">Download English Version (.docx)</a>
+        <a href="/assets/resources/CM_STSE_JH_fr.docx">Download French Version (.docx)</a>
+      </div>
+    </div>
+  </div>
 </div>
 
 <div class="outcome-group">
