@@ -3,7 +3,7 @@ layout: page
 title: Career Profiles
 ---
 
-### Meet People in Geoscience
+### Meet People in Geoscience!
 
 Curious what a career in geoscience actually looks like? Meet some local professionals working in industry, academia, and government. To arrange a classroom visit or ask a question, [contact MUNGO](mailto:mungo@mun.ca) and we'll help connect you.
 
@@ -25,15 +25,15 @@ Curious what a career in geoscience actually looks like? Meet some local profess
   align-items: flex-start;
 }
 .career-photo {
-  width: 140px;
-  height: 140px;
+  width: 200px;
+  height: 200px;
   object-fit: cover;
   border-radius: 6px;
   flex-shrink: 0;
 }
 .career-name {
   font-weight: bold;
-  font-size: 1.1rem;
+  font-size: 1.5rem;
   margin-bottom: 0.5rem;
 }
 .career-field {
@@ -81,7 +81,7 @@ Curious what a career in geoscience actually looks like? Meet some local profess
       <p>I’ve always been naturally curious and drawn to science, especially lab work and the process of asking questions and searching for answers. That curiosity played a big role in shaping my path.  Growing up in Greece, a highly seismically active country, also had a strong influence on me. I vividly remember experiencing an earthquake as a child. While it was a powerful event, what stayed with me most was a sense of fascination and a desire to understand what had just happened and why.  That combination of curiosity and early exposure to natural phenomena led me toward geoscience, and eventually to geophysics, where I could explore the Earth in a deeper and more analytical way.</p>
 
       <strong>What did you do in post-secondary education?</strong>
-      <p>During my post-secondary education, I completed a B.Sc. in Geology at Aristotle University of Thessaloniki, followed by an M.Sc. in Applied Geophysics through the IDEA LEAGUE Joint Master’s program, and a Ph.D. in Geophysics at Memorial University of Newfoundland. Throughout my studies, I was especially drawn to courses that combined physics, mathematics, and Earth sciences, as they allowed me to approach geological problems in a more quantitative and analytical way. This is what ultimately led me to specialize in geophysics. One of the most defining moments during my undergraduate degree was taking a seismology course with a professor who had a truly engaging way of teaching. I felt an immediate connection with both the subject and the way it was presented. Sometimes, all it takes is the right chemistry with a teacher to make a subject click, and that experience made me not only understand seismology better but become genuinely fascinated by it. We also had the opportunity to visit a seismological station, which made the learning experience even more tangible and exciting. My graduate studies further shaped my career path. During my M.Sc. and Ph.D., I was actively involved in research, working on real-world problems and developing new methodologies. This experience strengthened my technical skills and confirmed my interest in pursuing a career in geoscience research and development. I also had the opportunity to collaborate with researchers and industry professionals, which gave me valuable insight into how academic knowledge is applied in practice.</p>
+      <p>During my post-secondary education, I completed a B.Sc. in Geology at Aristotle University of Thessaloniki, followed by an M.Sc. in Applied Geophysics through the IDEA LEAGUE Joint Master’s program, and a Ph.D. in Geophysics at Memorial University of Newfoundland.</p> <p>Throughout my studies, I was especially drawn to courses that combined physics, mathematics, and Earth sciences, as they allowed me to approach geological problems in a more quantitative and analytical way. This is what ultimately led me to specialize in geophysics.</p> <p>One of the most defining moments during my undergraduate degree was taking a seismology course with a professor who had a truly engaging way of teaching. I felt an immediate connection with both the subject and the way it was presented. Sometimes, all it takes is the right chemistry with a teacher to make a subject click, and that experience made me not only understand seismology better but become genuinely fascinated by it. We also had the opportunity to visit a seismological station, which made the learning experience even more tangible and exciting. My graduate studies further shaped my career path.</p> <p>During my M.Sc. and Ph.D., I was actively involved in research, working on real-world problems and developing new methodologies. This experience strengthened my technical skills and confirmed my interest in pursuing a career in geoscience research and development. I also had the opportunity to collaborate with researchers and industry professionals, which gave me valuable insight into how academic knowledge is applied in practice.</p>
 
       <strong>What does your average day look like as a geoscientist?</strong>
       <p>As a geophysicist working in research and development, my day-to-day work is quite dynamic and involves a mix of science, problem-solving, and collaboration.
