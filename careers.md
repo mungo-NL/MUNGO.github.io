@@ -192,6 +192,45 @@ Curious what a career in geoscience actually looks like? Meet some local profess
 
 <div class="career-card">
   <div class="career-card-top">
+    <img class="career-photo" src="/assets/img/adam_noel.jpeg">
+    <div>
+      <div class="career-name">Adam Noel</div>
+      <div class="career-field"><strong>Position:</strong> Lead Geoscientist, Kraken Robotics</div>
+      <div class="career-field"><strong>Education:</strong> BSc and MSc</div>
+      <div class="career-field"><strong>Location:</strong> St. John's, NL</div>
+    </div>
+  </div>
+
+  <details>
+    <summary class="career-toggle">Read Jane's full story</summary>
+    <div class="career-answer">
+      <strong>What inspired you to become a geologist/geophysicist?</strong>
+      <p>High School Earth Science Class </p>
+
+      <strong>What did you do in post-secondary education?</strong>
+      <p>I actually started my university career studying Engineering where after 3 years in the program I wasn’t enjoying the culture where after reflecting on how much I enjoyed Earth Science in high school, I decided to give the Earth Science department at MUN a chance. I instantly loved the culture, challenge, and outdoor aspect.</p> 
+      
+      <p>After completing my BSc in Applied Geophysics I decided to continue my education and move to England to complete my MSC in Petroleum Reservoir Geoscience. During my entire Geoscience education I never had a job which reflected what I was studying where my first Geoscience position was for PanGeo Subsea. This was a St. John’s company where I was their first Geoscientist in Europe.</p>
+
+      <strong>What does your average day look like as a geoscientist?</strong>
+      <p>Honestly, everyday is different where one day I could be on a boat in the middle of the North Sea, surveying a wind farm in Taiwan, presenting at a conference in the UK, or processing data ranging from Lithological Mapping to UXO detection here in Newfoundland. </p>
+
+      <strong>What are some important skills required in your field that can't be taught?</strong>
+      <p>The passion to learn and strong work ethics </p>
+
+      <strong>What is the coolest project or experience you've ever had?</strong>
+      <p>Surveying and interpreting the data to be used in a major court battle in Australia where thanks to my work our clients won the battle where our interpretation of the geophysical data disproved everything the opponent</p>
+
+      <strong>Do you have any advice for junior high students?</strong>
+      <p>Never turn down the opportunity to learn and be trained in something new </p>
+    </div>
+  </details>
+</div>
+
+<hr class="section-divider">
+
+<div class="career-card">
+  <div class="career-card-top">
     <img class="career-photo" src="/assets/img/jacob_newman.jpeg">
     <div>
       <div class="career-name">Jacob Newman</div>
