@@ -105,6 +105,55 @@ It was amazing to see the full cycle of a project, from collecting the data to t
 
 <hr class="section-divider">
 
+<hr class="section-divider">
+
+<div class="career-card">
+  <div class="career-card-top">
+    <img class="career-photo" src="/assets/img/lauren_hayes.jpeg">
+    <div>
+      <div class="career-name"> Lauren Hayes </div>
+      <div class="career-field"><strong>Position:</strong> Senior Economist and Analyst at the Government of Canada </div>
+      <div class="career-field"><strong>Education:</strong> Bachelor of Science (Earth Sciences) and Master of Arts (Political Science)</div>
+      <div class="career-field"><strong>Location:</strong> St. John's, NL</div>
+    </div>
+  </div>
+
+  <details>
+    <summary class="career-toggle">Read Jane's full story</summary>
+    <div class="career-answer">
+      <strong>What inspired you to become a geologist/geophysicist?</strong>
+      <p>1)I always really enjoyed looking at rocks and collecting rock samples on the beach.
+
+2) In high school, I excelled at physics and chemistry and enjoyed math, so I decided to pursue an undergraduate in STEM. 
+
+3) My uncle was a geologist and when he explained what he did it sounded really cool, so when I realized I wasn’t enjoying engineering I decided to take an introductory earth sciences course and really enjoyed it. When I learned about the field of geophysics, that further sold me because physics was my favourite of the sciences but pure physics lacked the real-world applications and interesting problem solving that I wanted! </p>
+
+      <strong>What did you do in post-secondary education?</strong>
+      <p>I completed a Bachelor of Science in Earth Sciences. I did write an honours thesis, but my grades we just shy of me receiving an honours distinction. You needed an overall average of 75 and mine was 74.4! 
+
+I was inspired by one of my instructors named Dr. Alison Malcolm. She was very approachable and when I told her about my interest in geophysics, she offered me a summer student position. Her mentorship helped to build my confidence and the research was very interesting and taught me new skills like coding. 
+
+I decided to ultimately pursue a Masters education in Political Science because I had a strong interest in public policy and wanted to be apply it to science-policy integration. </p>
+
+      <strong>What does your average day look like as a geoscientist?</strong>
+      <p>As a Senior Economist/Policy Advisor, one of my responsibilities is to conduct economic analyst on the mining sector for the Atlantic Provinces. I track and report on major project developments to my senior management. I track commodity markets for minerals that are important for mineral shipments and economic development; for example I closely track iron ore and nickel markets given their importance to the Newfoundland and Labrador mining sector. I also engage with mining companies, researchers, and innovation hubs that are working in the mining / critical minerals space to connect them with funding resources. I also share expertise about federal priorities for the sector, as well as information about Canada’s positioning in the global mining sector, including recent advocacy by Canada to establish a G7 “Buyers Club” for critical minerals. </p>
+
+      <strong>What are some important skills required in your field that can't be taught?</strong>
+      <p>Communication skills are paramount. Working in the field of policy, being able to write about complex technical topics in a concise and accessible way is very important. I am often briefing senior government officials who may not have deep expertise in the mining sector, so being able to communicate the challenges in opportunities in a way that is accessible for varying levels of scientific literacy - while also not oversimplifying the material - is a skill that I developed over time. Particularly when you’re interested in a subject like I am in mining, it’s difficult not to include extraneous details that I find interesting but my senior management may overly care about! </p>
+
+      <strong>What is the coolest project or experience you've ever had?</strong>
+      <p>I got to design a new funding stream for critical minerals projects under the Strategic Innovation Fund - a program under my home department of Innovation, Science and Economic Development. I then led the review of the first project that was funded under the stream - a $222 million investment into Rio Tinto Iron and Titanium (announced in 2022).  </p>
+
+      <strong>Do you have any advice for junior high students?</strong>
+      <p>If you are interested in science or engineering, math is a common thread in those disciplines. So focus on developing your math skills, particularly once you reach high school and beyond. Math can be scary, but the easiest way to excel is through practice! 
+
+No matter what route you choose, being an effective communicator will get you far! So taking English/literature seriously will help you to develop your reading, comprehension and writing skills. Also take any Opportunity to practice presenting / public speaking to build your confidence. Those skills will serve you in all fields. </p>
+    </div>
+  </details>
+</div>
+
+<hr class="section-divider">
+
 <p style="margin-top: 2rem;">
   <strong>Want to be featured on this page?</strong> 
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSe1XJ03ym-yxJZfMMp_qst0k8vGLaM8HaVlRzsOeeO8i_5Uew/viewform?usp=header" target="_blank">Fill out this short Google Form</a> 
