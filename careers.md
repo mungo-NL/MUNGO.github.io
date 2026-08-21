@@ -65,7 +65,7 @@ Curious what a career in geoscience actually looks like? Meet some local profess
 
 <div class="career-card">
   <div class="career-card-top">
-    <img class="career-photo" src="/assets/img/heide_clarke.jpg">
+    <img class="career-photo" src="/assets/img/heide_clarke.jpeg">
     <div>
       <div class="career-name">Heide Clarke</div>
       <div class="career-field"><strong>Position:</strong> Geophysicist, Ember Resources Inc.</div>
