@@ -65,7 +65,7 @@ Curious what a career in geoscience actually looks like? Meet some local profess
 
 <div class="career-card">
   <div class="career-card-top">
-    <img class="career-photo" src="/assets/img/maria_kotsi.jpg">
+    <img class="career-photo" src="/assets/img/maria_kotsi.jpg" alt="Maria Kotsi">
     <div>
       <div class="career-name">Maria Kotsi</div>
       <div class="career-field"><strong>Position:</strong> Geophysicist, R&D at Kraken Robotics</div>
@@ -93,7 +93,7 @@ Curious what a career in geoscience actually looks like? Meet some local profess
 <p>Another important part of my day is contributing to the development and improvement of our in-house software, turning research ideas into tools that others can use. Overall, my role sits at the intersection of science, technology, and real-world application, which makes it both challenging and rewarding.</p>
 
       <strong>What are some important skills required in your field that can't be taught?</strong>
-      <p>Some of the most important skills in geoscience go beyond what can be taught in a classroom. For me, curiosity has always been a big driver. I’ve always enjoyed asking questions and trying to understand how things work. Growing up in Greece and experiencing earthquakes at a young age made me even more curious about the Earth and what happens beneath the surface. That same curiosity still motivates me in my work today. Problem-solving and critical thinking are also essential. <p>In research and development, things don’t always work as expected, and you often have to find creative ways to overcome challenges or improve a method. Communication is another key skill that I use every day. In my role, I often need to translate complex geophysical concepts into something practical for colleagues or clients, which really highlights how important it is to communicate clearly.</p><p> Finally, adaptability and teamwork are very important. I regularly collaborate with people from different backgrounds and each project can bring new challenges. Being able to adapt and work well with others makes a big difference. These are skills that develop over time through experience and curiosity, and they are just as important as the technical knowledge you gain through your education.</p>
+      <p>Some of the most important skills in geoscience go beyond what can be taught in a classroom. For me, curiosity has always been a big driver. I’ve always enjoyed asking questions and trying to understand how things work. Growing up in Greece and experiencing earthquakes at a young age made me even more curious about the Earth and what happens beneath the surface. That same curiosity still motivates me in my work today. Problem-solving and critical thinking are also essential. </p><p>In research and development, things don’t always work as expected, and you often have to find creative ways to overcome challenges or improve a method. Communication is another key skill that I use every day. In my role, I often need to translate complex geophysical concepts into something practical for colleagues or clients, which really highlights how important it is to communicate clearly.</p><p> Finally, adaptability and teamwork are very important. I regularly collaborate with people from different backgrounds and each project can bring new challenges. Being able to adapt and work well with others makes a big difference. These are skills that develop over time through experience and curiosity, and they are just as important as the technical knowledge you gain through your education.</p>
 
       <strong>What is the coolest project or experience you've ever had?</strong>
       <p>One of the coolest experiences I’ve had was during my internship at Deltares (Utrecht, the Netherlands) as part of my M.Sc. thesis. My project focused on studying the properties of the ground to help protect the delta areas in the Netherlands. I got to go out into the field with colleagues to collect data, and then return to the office to process it and use the techniques I was developing.</p>
@@ -107,7 +107,7 @@ Curious what a career in geoscience actually looks like? Meet some local profess
 
 <div class="career-card">
   <div class="career-card-top">
-    <img class="career-photo" src="/assets/img/lauren_hayes.jpeg">
+    <img class="career-photo" src="/assets/img/lauren_hayes.jpeg" alt="Lauren Hayes">
     <div>
       <div class="career-name"> Lauren Hayes </div>
       <div class="career-field"><strong>Position:</strong> Senior Economist and Analyst at the Government of Canada </div>
@@ -117,7 +117,7 @@ Curious what a career in geoscience actually looks like? Meet some local profess
   </div>
 
   <details>
-    <summary class="career-toggle">Read Jane's full story</summary>
+    <summary class="career-toggle">Read Lauren's full story</summary>
     <div class="career-answer">
       <strong>What inspired you to become a geologist/geophysicist?</strong>
       <p>I always really enjoyed looking at rocks and collecting rock samples on the beach.</p>
