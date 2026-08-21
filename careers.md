@@ -192,9 +192,9 @@ Curious what a career in geoscience actually looks like? Meet some local profess
 
 <div class="career-card">
   <div class="career-card-top">
-    <img class="career-photo" src="/assets/img/adam_noel.jpeg">
+    <img class="career-photo" src="/assets/img/michael_noel.jpeg">
     <div>
-      <div class="career-name">Adam Noel</div>
+      <div class="career-name">Michael Noel</div>
       <div class="career-field"><strong>Position:</strong> Lead Geoscientist, Kraken Robotics</div>
       <div class="career-field"><strong>Education:</strong> BSc and MSc</div>
       <div class="career-field"><strong>Location:</strong> St. John's, NL</div>
@@ -202,7 +202,7 @@ Curious what a career in geoscience actually looks like? Meet some local profess
   </div>
 
   <details>
-    <summary class="career-toggle">Read Jane's full story</summary>
+    <summary class="career-toggle">Read Michael's full story</summary>
     <div class="career-answer">
       <strong>What inspired you to become a geologist/geophysicist?</strong>
       <p>High School Earth Science Class </p>
