@@ -98,7 +98,7 @@ Curious what a career in geoscience actually looks like? Meet some local profess
       <strong>What is the coolest project or experience you've ever had?</strong>
       <p>One of the coolest experiences I’ve had was during my internship at Deltares (Utrecht, the Netherlands) as part of my M.Sc. thesis. My project focused on studying the properties of the ground to help protect the delta areas in the Netherlands. I got to go out into the field with colleagues to collect data, and then return to the office to process it and use the techniques I was developing.</p>
 
-<p>It was amazing to see the full cycle of a project, from collecting the data to turning it into useful information. That experience really showed me the power of combining fieldwork, experiments, and analysis, and it remains one of the most exciting moments in my geophysics journey.</p>
+      <p>It was amazing to see the full cycle of a project, from collecting the data to turning it into useful information. That experience really showed me the power of combining fieldwork, experiments, and analysis, and it remains one of the most exciting moments in my geophysics journey.</p>
     </div>
   </details>
 </div>
@@ -122,7 +122,7 @@ Curious what a career in geoscience actually looks like? Meet some local profess
       <strong>What inspired you to become a geologist/geophysicist?</strong>
       <p>I always really enjoyed looking at rocks and collecting rock samples on the beach.</p>
 
-<p>In high school, I excelled at physics and chemistry and enjoyed math, so I decided to pursue an undergraduate in STEM.</p> 
+<p>In high school, I excelled at physics and chemistry and enjoyed math, so I decided to pursue an undergraduate in STEM</p> 
 
 <p>My uncle was a geologist and when he explained what he did it sounded really cool, so when I realized I wasn’t enjoying engineering I decided to take an introductory earth sciences course and really enjoyed it. When I learned about the field of geophysics, that further sold me because physics was my favourite of the sciences but pure physics lacked the real-world applications and interesting problem solving that I wanted!</p>
 
