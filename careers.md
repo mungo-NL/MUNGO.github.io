@@ -276,6 +276,45 @@ Curious what a career in geoscience actually looks like? Meet some local profess
 
 <hr class="section-divider">
 
+<div class="career-card">
+  <div class="career-card-top">
+    <img class="career-photo" src="/assets/img/adam_wall.jpg">
+    <div>
+      <div class="career-name">Adam Wall</div>
+      <div class="career-field"><strong>Position:</strong> Senior Mine Resource Geologist</div>
+      <div class="career-field"><strong>Education:</strong> M.Sc. Geophysics</div>
+      <div class="career-field"><strong>Location:</strong> St. John's, NL</div>
+    </div>
+  </div>
+
+  <details>
+    <summary class="career-toggle">Read Adam's full story</summary>
+    <div class="career-answer">
+      <strong>What inspired you to become a geologist/geophysicist?</strong>
+      <p>I first became interested in Geology during high school. My favorite subjects were Earth Systems and Physics. When I got to university I dove straight into Geology. That's when I learned there was a stream of Geology called Geophysics that merged my two favorite subjects. After that, I was hooked.</p>
+
+      <strong>What did you do in post-secondary education?</strong>
+      <p>I completed a BSc in Geophysics (Honours). Worked for a few years then completed a masters in Geophysics.</p>
+      <p>I was mainly interested in potential fields (gravity & magnetics).</p>
+      <p>I found that working for a few years after completing my B.Sc. then returning for a M.Sc. helped because I had a lot of the field experience required to plan and execute field work for my thesis. </p>
+
+      <strong>What does your average day look like as a geoscientist?</strong>
+      <p>I'm in a bit of a hybrid role right now. I work in a gold mine in Newfoundland. I oversee a handful of Geologists and Techs with a few main goals: determining precisely where the ore is, determine the grade (quality), ensure it's properly removed, and transported to it's proper location. Part of that involves generating Geological models and field validations to ensure the model matches reality. </p>
+
+      <strong>What are some important skills required in your field that can't be taught?</strong>
+      <p>Active listening, building relationships, time management, taking initiative, handling change and uncertainty, critical thinking, coaching and mentoring, the list goes on. </p>
+
+      <strong>What is the coolest project or experience you've ever had?</strong>
+      <p>I've only ever worked on the Valentine Gold Project but have visited several other mine sites. The coolest things are seeing gold both raw and poured bars on a regular basis. It never gets old. And just seeing the enormity of mining projects and some of the massive equipment being used.</p>
+
+      <strong>Do you have any advice for junior high students?</strong>
+      <p>Follow your interests. Geology offers a wide range of paths, with so many different places you can end up. The more you explore what you enjoy, the more you’ll discover what you’re good at. Let your curiosity guide you, you’ll naturally find the right fit, and your passion will grow along the way.</p>
+    </div>
+  </details>
+</div>
+
+<hr class="section-divider">
+
 <p style="margin-top: 2rem;">
   <strong>Want to be featured on this page?</strong> 
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSe1XJ03ym-yxJZfMMp_qst0k8vGLaM8HaVlRzsOeeO8i_5Uew/viewform?usp=header" target="_blank">Fill out this short Google Form</a> 
