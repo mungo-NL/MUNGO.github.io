@@ -103,6 +103,43 @@ Curious what a career in geoscience actually looks like? Meet some local profess
 
 <div class="career-card">
   <div class="career-card-top">
+    <img class="career-photo" src="/assets/img/kaylea_cook.jpeg">
+    <div>
+      <div class="career-name">Kaylea Cook</div>
+      <div class="career-field"><strong>Position:</strong> Beat Geologist, Vale Base Metals</div>
+      <div class="career-field"><strong>Education:</strong> BSc. Earth Sciences (MUN); MSc. Geology (Laurentian University)</div>
+      <div class="career-field"><strong>Location:</strong> Newfoundland and Labrador</div>
+    </div>
+  </div>
+
+  <details>
+    <summary class="career-toggle">Read Kaylea's full story</summary>
+    <div class="career-answer">
+      <strong>What inspired you to become a geologist/geophysicist?</strong>
+      <p>Growing up in Newfoundland fostered my interest in geology. The region’s rugged coastlines and ancient rock formations prompted a curiosity about Earth’s history and the processes that shape its landscapes. This early exposure inspired me to pursue geology as a career.</p>
+
+      <strong>What did you do in post-secondary education?</strong>
+      <p>My interest in economic geology was significantly shaped by Dr. Steve Piercey, whose teaching introduced me to the field. He helped me gain an appreciation for how geological processes influence the formation and distribution of mineral resources, as well as their broader economic importance. His guidance helped refine my academic interests and inspired me to further pursue geology with a focus on resource exploration. I don’t think I ever did tell him how much of an influence he had on my career, but taking his Economic Geology course inspired me to eventually go back and do my masters degree (Laurentian University) a year later after graduating from my undergrad.</p>
+
+      <strong>What does your average day look like as a geoscientist?</strong>
+      <p>My average day as an underground beat geologist begins with reviewing the mine plan, production areas, and any outstanding mapping priorities. Before heading underground, I coordinate with operations and ensure all safety protocols and ground conditions are understood. Once underground,  I conduct face and back mapping - logging lithology, mineralization, and structures. I measure structural orientations (e.g., veins, faults, foliation) and assess ground conditions relevant to both geology and safety. </p>
+
+      <strong>What are some important skills required in your field that can't be taught?</strong>
+      <p>While core concepts and methods can be taught, critical thinking in geology is a skill that cannot be developed through coursework alone, as it depends on interpreting complex and often incomplete data rather than applying fixed answers. </p>
+
+      <strong>What is the coolest project or experience you've ever had?</strong>
+      <p>I had the opportunity to work in Finland in a pegmatite field. I worked with some friends I had met on previous contracts and we got to experience that together. I also made new friends/colleagues who have helped shape my career into what it is today. </p>
+
+      <strong>Do you have any advice for junior high students?</strong>
+      <p>If you enjoy math and science, it’s worth considering a career that builds on those strengths. Fields like geology and engineering rely on problem-solving, analytical thinking, and curiosity about how the world works. Being strong in these subjects can open the door to hands-on careers where you can explore, discover, and contribute to real-world challenges.</p>
+    </div>
+  </details>
+</div>
+
+<hr class="section-divider">
+
+<div class="career-card">
+  <div class="career-card-top">
     <img class="career-photo" src="/assets/img/lauren_hayes.jpeg" alt="Lauren Hayes">
     <div>
       <div class="career-name"> Lauren Hayes </div>
