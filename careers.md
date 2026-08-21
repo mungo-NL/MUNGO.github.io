@@ -234,6 +234,48 @@ Curious what a career in geoscience actually looks like? Meet some local profess
 
 <hr class="section-divider">
 
+<div class="career-card">
+  <div class="career-card-top">
+    <img class="career-photo" src="/assets/img/miguel_shano.jpg">
+    <div>
+      <div class="career-name">Miguel Shano</div>
+      <div class="career-field"><strong>Position:</strong> Technical Support Analyst - Geoscience, Seequent Ltd</div>
+      <div class="career-field"><strong>Education:</strong> MSc and BSc (Hons) in Geophysics from Memorial University of Newfoundland</div>
+      <div class="career-field"><strong>Location:</strong> St. John's, NL</div>
+    </div>
+  </div>
+
+  <details>
+    <summary class="career-toggle">Read Miguel's full story</summary>
+    <div class="career-answer">
+      <strong>What inspired you to become a geologist/geophysicist?</strong>
+      <p>I took an Earth systems course during high school and it seemed like an interesting topic. I knew I wanted to do some type of applied science degree at university and my high school teacher at the time sort of inspired me to pursue it. My sister also started a geology degree so that was also part of my influence! </p>
+
+      <strong>What did you do in post-secondary education?</strong>
+      <p>I did an honours undergraduate degree with a major in Earth Sciences and minor in Mathematics. This was quickly followed by a Masters degree in Geophysics where I was working with seismic and potential field data. </p>
+
+      <p>I always found the idea of imaging the subsurface interesting so I knew geophysics would be super cool to learn!</p>
+
+      <strong>What does your average day look like as a geoscientist?</strong>
+      <p>I work for a global geoscience software company that major mining, oil and gas and environmental companies use on a daily basis. My role is largely customer based helping other geoscientists solve real world problems with our geoscience software.
+</p>
+      <p>I also contribute to testing our software and create technical content on workflows to optimize our customers workflows.</p>
+
+      <strong>What are some important skills required in your field that can't be taught?</strong>
+      <p>Many skills can help you thrive in this field! The first few that come to mind are critical thinking, problem solving and teamwork. Geoscientists deal with complex problems that are not often straightforward and require these skills to help discover natural resources and solve other challenges.</p>
+
+      <strong>What is the coolest project or experience you've ever had?</strong>
+      <p>Part of my role is to help train customers to use our geoscience software. I had an opportunity to travel to Denver, Colorado to help train our customers from the US Army Corps of Engineers (USCAE)! It was an in person training held over 4 days. The training involved using our software to help detect unexplored ordnances (UXO). Training the USACE  is critical as these undetected UXO can be very dangerous! </p>
+
+      <strong>Do you have any advice for junior high students?</strong>
+      <p>Becoming a geoscientist is such a rewarding and cool job! There are many opportunities out there and they can let you to explore the world traveling to different countries.</p>
+      <p>The world needs more geoscientists to discover new natural resources and solve environmental challenges. You will play an important role in exploring the Earth's unknown potential! </p>
+    </div>
+  </details>
+</div>
+
+<hr class="section-divider">
+
 <p style="margin-top: 2rem;">
   <strong>Want to be featured on this page?</strong> 
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSe1XJ03ym-yxJZfMMp_qst0k8vGLaM8HaVlRzsOeeO8i_5Uew/viewform?usp=header" target="_blank">Fill out this short Google Form</a> 
