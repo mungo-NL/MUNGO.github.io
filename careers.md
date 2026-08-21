@@ -190,7 +190,47 @@ Curious what a career in geoscience actually looks like? Meet some local profess
 
 <hr class="section-divider">
 
+<div class="career-card">
+  <div class="career-card-top">
+    <img class="career-photo" src="/assets/img/jacob_newman.jpeg">
+    <div>
+      <div class="career-name">Jacob Newman</div>
+      <div class="career-field"><strong>Position:</strong> Geoscientist, Kraken Robotics</div>
+      <div class="career-field"><strong>Education:</strong> B.Sc. (Hon.) Earth Sciences, M.Sc. Earth Sciences (Geophysics)</div>
+      <div class="career-field"><strong>Location:</strong> St. John's, NL</div>
+    </div>
+  </div>
 
+  <details>
+    <summary class="career-toggle">Read Jacob's full story</summary>
+    <div class="career-answer">
+      <strong>What inspired you to become a geologist/geophysicist?</strong>
+      <p>My father was a geologist, so in a way he inspired me, but also my high school earth science and physics teachers. I mainly enjoyed physics, math, and earth science in high school, so I combined them and chose geophysics.</p>
+
+      <strong>What did you do in post-secondary education?</strong>
+      <p>Once I started taking a couple of earth science courses, I was really motivated by how passionate my professors were. You could tell that each one of them truly enjoyed what they did and loved sharing it with others. The field school and the friendships (camaraderie) you build with other students went a long way in keeping me interested in the subjects.</p>
+      <p>During field school, I really enjoyed taking observations and measurements from places like forests or the seaside and turning them into maps, watching how an image of the environment slowly comes together. A physics professor once told me, "Once you have a physics degree, you see the world in a whole new way." That’s true for physics, but even more so for earth science—especially if you like spending time outside.</p>
+      
+      <p> had multiple opportunities to work in labs doing a variety of things, and I enjoyed all of it. I liked figuring things out (even when it was challenging), using different pieces of technology I didn’t know existed, and once again seeing the passion my supervisors have, which really helps keep students interested and engaged.</p>
+
+      <strong>What does your average day look like as a geoscientist?</strong>
+      <p>I work offshore, all over the world, doing imaging of the shallow seabed and the layers just below it using sonar. These projects are often related to buried offshore infrastructure such as cables and pipelines. We use our system to image the infrastructure in the seabed and figure out where it is located.</p>
+
+      <p>Our system is usually deployed on an underwater remotely operated vehicle, or ROV, which is launched from a survey vessel and brought to depths between 10 and 100 meters (sometimes deeper in other cases). It then moves along the path of the asset, measuring and tracking its position.</p>
+
+      <strong>What are some important skills required in your field that can't be taught?</strong>
+      <p>I’m not sure about skills that “can’t be taught,” but there are definitely skills that come with lots of practice over time. Every scientist needs good communication skills—not only to talk with their colleagues, but also to explain their work in a simple way so others can understand it.</p>
+      
+      <p>A career in geoscience often involves working away from home, sometimes in remote places, with people you may not know. Living like this requires good people skills, especially being able to understand others and get along with them for weeks at a time.</p>
+
+      <strong>What is the coolest project or experience you've ever had?</strong>
+      <p>Maybe not one particular project, but the travel I do to get to these projects is quite interesting. For example, I’ve gone hiking in Norway, walked through old European cities, and visited food markets in Taiwan, which makes the time away from home more enjoyable.</p>
+
+      <strong>Do you have any advice for junior high students?</strong>
+      <p>Try to find out what you enjoy and what a future job might look like over the next few years, but don’t worry too much about it right now. Have fun! You’ll be old before you know it.</p>
+    </div>
+  </details>
+</div>
 
 <hr class="section-divider">
 
