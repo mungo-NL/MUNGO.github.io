@@ -59,13 +59,17 @@ document.getElementById('page-search').addEventListener('input', function() {
   background: #f7f7f7;
 }
 .link-thumb {
-  width: 120px;
-  height: 150px;
-  object-fit: cover;
+  width: auto;
+  height: auto;
+  max-width: 100%; 
+  max-height: 150px; 
+  object-fit: contain;
   border-radius: 6px;
+  background: #fff;
   box-shadow: 0 2px 6px rgba(0,0,0,0.15);
   flex-shrink: 0;
 }
+
 .link-title {
   font-weight: bold;
   font-size: 1.1rem;
@@ -90,11 +94,20 @@ document.getElementById('page-search').addEventListener('input', function() {
 
   <hr class="section-divider">
   <div class="link-card">
-    <img class="link-thumb" src="/assets/img/example-link-preview2.png">
+    <img class="link-thumb" src="/assets/img/science_world_logo.png">
     <div>
-      <div class="link-title"><a href="https://example.com" target="_blank">Example Junior High Tool</a></div>
-      <div class="link-desc">A short description of what the tool does and why it's useful across Grades 7–9.</div>
-      <div class="link-grade">Grades 7–9</div>
+      <div class="link-title"><a href="https://example.com" target="_blank">Science Worldl</a></div>
+      <div class="link-desc">
+        <p>Science World includes simple, interactive activities for elementary school students introducing rocks and Earth materials. It features classification of rocks, material properties, etc.</p>
+        <p>The “worlds” are divided by grades, featuring lots more lessons than just geophysics, but you can “Search Lesson” for specifics:</p>
+        <ul>
+          <li>Grade 2: Rocks, forces, materials</li>
+          <li>Grade 4: Sound, magnets, motion</li>
+          <li>Grade 5: Electricity, circuits, forces</li>
+          <li>Grade 6: Energy, tectonic plates, earthquakes</li>
+        </ul>
+      </div>
+      <div class="link-grade">Grades K-6</div>
     </div>
   </div>
 </div>
