@@ -116,7 +116,7 @@ document.getElementById('page-search').addEventListener('input', function() {
   <div class="link-card">
     <img class="link-thumb" src="/assets/img/virtual_quake_logo.png">
     <div>
-      <div class="link-title"><a href="https://example.com" target="_blank">Virtual Earthquake</a></div>
+      <div class="link-title"><a href="https://www.sciencecourseware.org/VirtualEarthquake/" target="_blank">Virtual Earthquake</a></div>
       <div class="link-desc">
         <p>Virtual Earthquake is an interactive Web-based activity designed to introduce you to the concepts of how an earthquake EPICENTER is located and how the RICHTER MAGNITUDE of an earthquake is determined.</p>
         <p>Students locate earthquake epicentres using real seismic data. Demonstrates seismology, a key tool used to study Earth’s interior. (<strong>Bonus</strong>: you get a certificate at the end).</p>
@@ -138,7 +138,7 @@ document.getElementById('page-search').addEventListener('input', function() {
         <p>A short quiz that introduces careers in Earth science and geophysics.</p>
         <p>You can be any number of things as an Earth Scientist. From the Earth’s core to the cosmos there is a career for you to discover! Earth Scientists have a wide range of job titles, working in one or many of the <strong>W.H.E.R.E.</strong> career sectors that make up the Earth Sciences:</p>
         <ul>
-          <li><strong>W</strong>sater: Groundwater, glaciers, oceans, lakes, clouds (essential for all life)</li>
+          <li><strong>W</strong>ater: Groundwater, glaciers, oceans, lakes, clouds (essential for all life)</li>
           <li><strong>H</strong>azards: Interactions with natural phenomena (protecting the public)</li>
           <li><strong>E</strong>nvironment: Natural systems and spaces (climate and sustainability)</li>
           <li><strong>R</strong>esources: Rocks, minerals, metals, mining (non-renewables we rely on)</li>
