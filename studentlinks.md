@@ -132,11 +132,21 @@ document.getElementById('page-search').addEventListener('input', function() {
 
   <hr class="section-divider">
   <div class="link-card">
-    <img class="link-thumb" src="/assets/img/example-link-preview4.png">
+    <img class="link-thumb" src="/assets/img/careers_science_logo.png">
     <div>
-      <div class="link-title"><a href="https://example.com" target="_blank">Example Grade 9 Tool</a></div>
-      <div class="link-desc">A short description here.</div>
-      <div class="link-grade">Grade 9</div>
+      <div class="link-title"><a href="https://careers.earthsciencescanada.com/what-can-you-be/ " target="_blank">What Can You Be?</a></div>
+      <div class="link-desc">
+        <p>A short quiz that introduces careers in Earth science and geophysics.</p>
+        <p>You can be any number of things as an Earth Scientist. From the Earth’s core to the cosmos there is a career for you to discover! Earth Scientists have a wide range of job titles, working in one or many of the <strong>W.H.E.R.E.</strong> career sectors that make up the Earth Sciences:</p>
+        <ul>
+          <li><strong>W</strong>sater: Groundwater, glaciers, oceans, lakes, clouds (essential for all life)</li>
+          <li><strong>H</strong>azards: Interactions with natural phenomena (protecting the public)</li>
+          <li><strong>E</strong>nvironment: Natural systems and spaces (climate and sustainability)</li>
+          <li><strong>R</strong>esources: Rocks, minerals, metals, mining (non-renewables we rely on)</li>
+          <li><strong>E</strong>nergy: Wind, solar, tidal, geothermal, fuels (sustainable extraction and use)</li>
+        </ul>
+      </div>
+      <div class="link-grade">Grades 10-12</div>
     </div>
   </div>
 </div>
