@@ -132,11 +132,14 @@ document.getElementById('page-search').addEventListener('input', function() {
 
   <hr class="section-divider">
   <div class="link-card">
-    <img class="link-thumb" src="/assets/img/example-link-preview4.png">
+    <img class="link-thumb" src="/assets/img/phet_logo.png">
     <div>
-      <div class="link-title"><a href="https://example.com" target="_blank">Example Grade 9 Tool</a></div>
-      <div class="link-desc">A short description here.</div>
-      <div class="link-grade">Grade 9</div>
+      <div class="link-title"><a href="https://phet.colorado.edu/en/simulations/filter?type=html" target="_blank">PhET Simulations</a></div>
+      <div class="link-desc">
+        <p>PhET (or “Physics Education Technology”) Interactive Simulations let students explore physics and Earth science concepts in a visual way. The simulations are designed to be flexible so that they can be used as lecture demonstrations, labs, or homework activities.</p>
+        <p>They use an intuitive, game-like environment where students can learn through scientist-like exploration within a simplified environment, where dynamic visual representations make the invisible visible, and where science ideas are connected to real-world phenomena.</p>
+        <p>Geophysics examples include: Sound Waves, Normal Modes, Magnet and Compass, and Gravity Force Lab.</p></div>
+      <div class="link-grade">All Grades</div>
     </div>
   </div>
 </div>
