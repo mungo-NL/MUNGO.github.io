@@ -9,9 +9,9 @@ Websites, simulations, and interactive tools appropriate for students to explore
 
 <div style="margin: 1.5rem 0; padding: 1rem; background: #f7f7f7; border-radius: 8px;">
   <strong>Jump to:</strong>
-  <a href="#elementary">Elementary (K-6)</a> ·
-  <a href="#intermediate">Intermediate (7-9)</a> ·
-  <a href="#high-school">High School (10-12)</a> ·
+  <a href="#elementary">Elementary)</a> ·
+  <a href="#intermediate">Intermediate</a> ·
+  <a href="#high-school">High School</a> ·
   <a href="#all-grades">All Grades</a> ·
 
 </div>
@@ -90,13 +90,13 @@ document.getElementById('page-search').addEventListener('input', function() {
 </style>
 
 <div class="grade-group">
-  <h3 id="elementary">Elementary (K-6)</h3>
+  <h3 id="elementary">Elementary</h3>
 
   <hr class="section-divider">
   <div class="link-card">
     <img class="link-thumb" src="/assets/img/science_world_logo.png">
     <div>
-      <div class="link-title"><a href="https://example.com" target="_blank">Science World</a></div>
+      <div class="link-title"><a href="https://science-world.e-learningforkids.org/en/grade-4/map" target="_blank">Science World</a></div>
       <div class="link-desc">
         <p>Science World includes simple, interactive activities for elementary school students introducing rocks and Earth materials. It features classification of rocks, material properties, etc.</p>
         <p>The “worlds” are divided by grades, featuring lots more lessons than just geophysics, but you can “Search Lesson” for specifics:</p>
@@ -113,21 +113,24 @@ document.getElementById('page-search').addEventListener('input', function() {
 </div>
 
 <div class="grade-group">
-  <h3 id="intermediate">Intermediate (7-9)</h3>
+  <h3 id="intermediate">Intermediate</h3>
 
   <hr class="section-divider">
   <div class="link-card">
-    <img class="link-thumb" src="/assets/img/example-link-preview3.png">
+    <img class="link-thumb" src="/assets/img/virtual_quake_logo.png">
     <div>
-      <div class="link-title"><a href="https://example.com" target="_blank">Example Grade 7 Tool</a></div>
-      <div class="link-desc">A short description here.</div>
-      <div class="link-grade">Grade 7</div>
+      <div class="link-title"><a href="https://example.com" target="_blank">Virtual Earthquake</a></div>
+      <div class="link-desc">
+        <p>Virtual Earthquake is an interactive Web-based activity designed to introduce you to the concepts of how an earthquake EPICENTER is located and how the RICHTER MAGNITUDE of an earthquake is determined.</p>
+        <p>Students locate earthquake epicentres using real seismic data. Demonstrates seismology, a key tool used to study Earth’s interior. (<strong>Bonus</strong>: you get a certificate at the end).</p>
+      </div>
+      <div class="link-grade">Grades 7-9</div>
     </div>
   </div>
 </div>
 
 <div class="grade-group">
-  <h3 id="high-school">High School (10-12)</h3>
+  <h3 id="high-school">High School</h3>
 
   <hr class="section-divider">
   <div class="link-card">
@@ -152,10 +155,12 @@ document.getElementById('page-search').addEventListener('input', function() {
         <p>PhET (or “Physics Education Technology”) Interactive Simulations let students explore physics and Earth science concepts in a visual way. The simulations are designed to be flexible so that they can be used as lecture demonstrations, labs, or homework activities.</p>
         <p>They use an intuitive, game-like environment where students can learn through scientist-like exploration within a simplified environment, where dynamic visual representations make the invisible visible, and where science ideas are connected to real-world phenomena.</p>
         <p>Geophysics examples include: Sound Waves, Normal Modes, Magnet and Compass, and Gravity Force Lab.</p></div>
-      <div class="link-grade">All Grades</div>
+      <div class="link-grade">Grades K-12</div>
     </div>
   </div>
 </div>
+
+<hr class="section-divider">
 
 <p style="margin-top: 2rem;">
   Know of a link that should be here? 
