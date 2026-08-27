@@ -96,7 +96,7 @@ document.getElementById('page-search').addEventListener('input', function() {
   <div class="link-card">
     <img class="link-thumb" src="/assets/img/science_world_logo.png">
     <div>
-      <div class="link-title"><a href="https://example.com" target="_blank">Science Worldl</a></div>
+      <div class="link-title"><a href="https://example.com" target="_blank">Science World</a></div>
       <div class="link-desc">
         <p>Science World includes simple, interactive activities for elementary school students introducing rocks and Earth materials. It features classification of rocks, material properties, etc.</p>
         <p>The “worlds” are divided by grades, featuring lots more lessons than just geophysics, but you can “Search Lesson” for specifics:</p>
