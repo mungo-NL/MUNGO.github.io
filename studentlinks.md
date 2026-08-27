@@ -3,8 +3,6 @@ layout: page
 title: Student Links
 ---
 
-### Student Links
-
 Websites, simulations, and interactive tools appropriate for students to explore on their own. Note the <strong>grade range</strong> when sharing.
 
 <div style="margin: 1.5rem 0; padding: 1rem; background: #f7f7f7; border-radius: 8px;">
@@ -158,6 +156,23 @@ document.getElementById('page-search').addEventListener('input', function() {
       <div class="link-grade">Grades K-12</div>
     </div>
   </div>
+
+  <div class="link-card">
+      <img class="link-thumb" src="/assets/img/purpose_games_logo.png">
+      <div>
+        <div class="link-title"><a href="https://www.purposegames.com/tag/geophysics " target="_blank">Geophysics Quizzes</a></div>
+        <div class="link-desc">
+          <p>Free online Geophysics quizzes. There are 11 quizzes in total created by members of PurposeGames. You may find more quizzes like the Geophysics ones in the Science category. Reinforces key Earth science concepts in a quiz form.</p>
+          <p>Some Quizzes Include:</p>
+          <ul>
+            <li>Understanding Fossil Fuel Burning</li>
+            <li>Types of Anticlines and Synclines</li>
+            <li>Milankovitch Cycles and Climate Change</li>
+            <li>Types of Breaking Waves</li>
+        </ul>
+        <div class="link-grade">Grades 7-12</div>
+      </div>
+    </div>
 </div>
 
 <hr class="section-divider">
