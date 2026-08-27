@@ -9,10 +9,11 @@ Websites, simulations, and interactive tools appropriate for students to explore
 
 <div style="margin: 1.5rem 0; padding: 1rem; background: #f7f7f7; border-radius: 8px;">
   <strong>Jump to:</strong>
-  <a href="#grade-4">Grade 4</a> · 
-  <a href="#junior-high">Junior High (7–9)</a> · 
-  <a href="#grade-7">Grade 7</a> · 
-  <a href="#grade-9">Grade 9</a>
+  <a href="#elementary">Elementary (K-6)</a> ·
+  <a href="#intermediate">Intermediate (7-9)</a> ·
+  <a href="#high-school">High School (10-12)</a> ·
+  <a href="#all-grades">All Grades</a> ·
+
 </div>
 
 <input type="text" id="page-search" placeholder="Search this page for keywords..." 
@@ -85,21 +86,7 @@ document.getElementById('page-search').addEventListener('input', function() {
 </style>
 
 <div class="grade-group">
-  <h3 id="grade-4">Grade 4</h3>
-
-  <hr class="section-divider">
-  <div class="link-card">
-    <img class="link-thumb" src="/assets/img/example-link-preview.png">
-    <div>
-      <div class="link-title"><a href="https://example.com" target="_blank">Example Interactive Tool</a></div>
-      <div class="link-desc">A short description of what the tool does and why it's useful.</div>
-      <div class="link-grade">Grade 4</div>
-    </div>
-  </div>
-</div>
-
-<div class="grade-group">
-  <h3 id="junior-high">Junior High (Grades 7–9)</h3>
+  <h3 id="elementary">Elementary (K-6)</h3>
 
   <hr class="section-divider">
   <div class="link-card">
@@ -113,7 +100,7 @@ document.getElementById('page-search').addEventListener('input', function() {
 </div>
 
 <div class="grade-group">
-  <h3 id="grade-7">Grade 7</h3>
+  <h3 id="intermediate">Intermediate (7-9)</h3>
 
   <hr class="section-divider">
   <div class="link-card">
@@ -127,7 +114,21 @@ document.getElementById('page-search').addEventListener('input', function() {
 </div>
 
 <div class="grade-group">
-  <h3 id="grade-9">Grade 9</h3>
+  <h3 id="high-school">High School (10-12)</h3>
+
+  <hr class="section-divider">
+  <div class="link-card">
+    <img class="link-thumb" src="/assets/img/example-link-preview4.png">
+    <div>
+      <div class="link-title"><a href="https://example.com" target="_blank">Example Grade 9 Tool</a></div>
+      <div class="link-desc">A short description here.</div>
+      <div class="link-grade">Grade 9</div>
+    </div>
+  </div>
+</div>
+
+<div class="grade-group">
+  <h3 id="all-grades">All Grades</h3>
 
   <hr class="section-divider">
   <div class="link-card">
