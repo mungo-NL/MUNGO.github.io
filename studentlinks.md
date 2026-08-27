@@ -7,7 +7,7 @@ Websites, simulations, and interactive tools appropriate for students to explore
 
 <div style="margin: 1.5rem 0; padding: 1rem; background: #f7f7f7; border-radius: 8px;">
   <strong>Jump to:</strong>
-  <a href="#elementary">Elementary)</a> ·
+  <a href="#elementary">Elementary</a> ·
   <a href="#intermediate">Intermediate</a> ·
   <a href="#high-school">High School</a> ·
   <a href="#all-grades">All Grades</a> ·
@@ -56,18 +56,17 @@ document.getElementById('page-search').addEventListener('input', function() {
   border-radius: 8px;
   background: #f7f7f7;
 }
-.link-thumb {
-  width: auto;
-  height: auto;
-  max-width: 100%; 
-  max-height: 150px; 
-  object-fit: contain;
-  border-radius: 6px;
-  background: #fff;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
-  flex-shrink: 0;
+.link-thumb { 
+  width: 120px; 
+  height: 120px; 
+  object-fit: scale-down; 
+  padding: 12px;
+  box-sizing: border-box;
+  border-radius: 6px; 
+  background: #fff; 
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15); 
+  flex-shrink: 0; 
 }
-
 .link-title {
   font-weight: bold;
   font-size: 1.1rem;
